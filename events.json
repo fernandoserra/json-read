@@ -1,0 +1,1083 @@
+{
+    "events": {
+        "3533104": {
+            "id": "3533104",
+            "name": "Portland Timbers-CD Marathon",
+            "tournament_stageFK": "872002",
+            "startdate": "2021-04-14T00:00:00+00:00",
+            "status_type": "Finished",
+            "status_descFK": "6",
+            "round_typeFK": "4",
+            "n": "6",
+            "ut": "2021-04-14T02:05:33+00:00",
+            "tournamentFK": "16079",
+            "tournament_templateFK": "297",
+            "sportFK": "1",
+            "tournament_stage_name": "CONCACAF Champions League",
+            "tournament_name": "2021",
+            "tournament_template_name": "CONCACAF Champions League",
+            "sport_name": "Football",
+            "gender": "male",
+            "event_participants": {
+                "12681119": {
+                    "id": "12681119",
+                    "number": "2",
+                    "participantFK": "9932",
+                    "eventFK": "3533104",
+                    "n": "0",
+                    "ut": "2021-02-11T17:03:14+00:00",
+                    "result": {
+                        "48587115": {
+                            "id": "48587115",
+                            "event_participantsFK": "12681119",
+                            "result_typeFK": "6",
+                            "result_code": "runningscore",
+                            "value": "0",
+                            "n": "0",
+                            "ut": "2021-02-11T17:04:09+00:00"
+                        },
+                        "48587117": {
+                            "id": "48587117",
+                            "event_participantsFK": "12681119",
+                            "result_typeFK": "1",
+                            "result_code": "ordinarytime",
+                            "value": "0",
+                            "n": "0",
+                            "ut": "2021-02-11T17:04:09+00:00"
+                        },
+                        "49753157": {
+                            "id": "49753157",
+                            "event_participantsFK": "12681119",
+                            "result_typeFK": "5",
+                            "result_code": "halftime",
+                            "value": "0",
+                            "n": "0",
+                            "ut": "2021-04-14T01:04:02+00:00"
+                        },
+                        "49753337": {
+                            "id": "49753337",
+                            "event_participantsFK": "12681119",
+                            "result_typeFK": "4",
+                            "result_code": "finalresult",
+                            "value": "0",
+                            "n": "0",
+                            "ut": "2021-04-14T02:03:34+00:00"
+                        }
+                    },
+                    "participant": {
+                        "id": "9932",
+                        "name": "CD Marathon",
+                        "gender": "male",
+                        "type": "team",
+                        "countryFK": "118",
+                        "n": "2",
+                        "ut": "2018-06-05T08:10:28+00:00",
+                        "country_name": "Honduras",
+                        "country_code": "HON"
+                    }
+                },
+                "12681120": {
+                    "id": "12681120",
+                    "number": "1",
+                    "participantFK": "307690",
+                    "eventFK": "3533104",
+                    "n": "0",
+                    "ut": "2021-02-11T17:03:14+00:00",
+                    "result": {
+                        "49753156": {
+                            "id": "49753156",
+                            "event_participantsFK": "12681120",
+                            "result_typeFK": "5",
+                            "result_code": "halftime",
+                            "value": "2",
+                            "n": "0",
+                            "ut": "2021-04-14T01:04:02+00:00"
+                        },
+                        "48587116": {
+                            "id": "48587116",
+                            "event_participantsFK": "12681120",
+                            "result_typeFK": "6",
+                            "result_code": "runningscore",
+                            "value": "5",
+                            "n": "5",
+                            "ut": "2021-04-14T02:01:49+00:00"
+                        },
+                        "48587118": {
+                            "id": "48587118",
+                            "event_participantsFK": "12681120",
+                            "result_typeFK": "1",
+                            "result_code": "ordinarytime",
+                            "value": "5",
+                            "n": "5",
+                            "ut": "2021-04-14T02:01:49+00:00"
+                        },
+                        "49753336": {
+                            "id": "49753336",
+                            "event_participantsFK": "12681120",
+                            "result_typeFK": "4",
+                            "result_code": "finalresult",
+                            "value": "5",
+                            "n": "0",
+                            "ut": "2021-04-14T02:03:34+00:00"
+                        }
+                    },
+                    "participant": {
+                        "id": "307690",
+                        "name": "Portland Timbers",
+                        "gender": "male",
+                        "type": "team",
+                        "countryFK": "16",
+                        "n": "0",
+                        "ut": "2019-09-25T09:23:05+00:00",
+                        "country_name": "USA",
+                        "country_code": "USA"
+                    }
+                }
+            },
+            "elapsed": {
+                "1593826": {
+                    "id": "1593826",
+                    "elapsed": "90",
+                    "injury_time": "no",
+                    "injury_time_elapsed": "0",
+                    "time_type": "minute",
+                    "n": "97",
+                    "ut": "2021-04-14T02:03:35+00:00"
+                }
+            }
+        },
+        "3556453": {
+            "id": "3556453",
+            "name": "Santos FC-San Lorenzo",
+            "tournament_stageFK": "871980",
+            "startdate": "2021-04-14T00:30:00+00:00",
+            "status_type": "Finished",
+            "status_descFK": "6",
+            "round_typeFK": "91",
+            "n": "6",
+            "ut": "2021-04-14T03:46:47+00:00",
+            "tournamentFK": "16073",
+            "tournament_templateFK": "45",
+            "sportFK": "1",
+            "tournament_stage_name": "Copa Libertadores Qualification",
+            "tournament_name": "2021",
+            "tournament_template_name": "Copa Libertadores",
+            "sport_name": "Football",
+            "gender": "male",
+            "event_participants": {
+                "12792636": {
+                    "id": "12792636",
+                    "number": "1",
+                    "participantFK": "8514",
+                    "eventFK": "3556453",
+                    "n": "0",
+                    "ut": "2021-03-18T02:31:28+00:00",
+                    "result": {
+                        "49753197": {
+                            "id": "49753197",
+                            "event_participantsFK": "12792636",
+                            "result_typeFK": "5",
+                            "result_code": "halftime",
+                            "value": "1",
+                            "n": "0",
+                            "ut": "2021-04-14T01:18:12+00:00"
+                        },
+                        "49256391": {
+                            "id": "49256391",
+                            "event_participantsFK": "12792636",
+                            "result_typeFK": "6",
+                            "result_code": "runningscore",
+                            "value": "2",
+                            "n": "2",
+                            "ut": "2021-04-14T01:45:37+00:00"
+                        },
+                        "49256393": {
+                            "id": "49256393",
+                            "event_participantsFK": "12792636",
+                            "result_typeFK": "1",
+                            "result_code": "ordinarytime",
+                            "value": "2",
+                            "n": "2",
+                            "ut": "2021-04-14T01:45:37+00:00"
+                        },
+                        "49753394": {
+                            "id": "49753394",
+                            "event_participantsFK": "12792636",
+                            "result_typeFK": "4",
+                            "result_code": "finalresult",
+                            "value": "2",
+                            "n": "0",
+                            "ut": "2021-04-14T02:25:12+00:00"
+                        }
+                    },
+                    "participant": {
+                        "id": "8514",
+                        "name": "Santos FC",
+                        "gender": "male",
+                        "type": "team",
+                        "countryFK": "51",
+                        "n": "2",
+                        "ut": "2020-03-09T23:22:32+00:00",
+                        "country_name": "Brazil",
+                        "country_code": "BRA"
+                    }
+                },
+                "12792637": {
+                    "id": "12792637",
+                    "number": "2",
+                    "participantFK": "10083",
+                    "eventFK": "3556453",
+                    "n": "0",
+                    "ut": "2021-03-18T02:31:28+00:00",
+                    "result": {
+                        "49753198": {
+                            "id": "49753198",
+                            "event_participantsFK": "12792637",
+                            "result_typeFK": "5",
+                            "result_code": "halftime",
+                            "value": "0",
+                            "n": "0",
+                            "ut": "2021-04-14T01:18:12+00:00"
+                        },
+                        "49256392": {
+                            "id": "49256392",
+                            "event_participantsFK": "12792637",
+                            "result_typeFK": "6",
+                            "result_code": "runningscore",
+                            "value": "2",
+                            "n": "2",
+                            "ut": "2021-04-14T02:06:54+00:00"
+                        },
+                        "49256394": {
+                            "id": "49256394",
+                            "event_participantsFK": "12792637",
+                            "result_typeFK": "1",
+                            "result_code": "ordinarytime",
+                            "value": "2",
+                            "n": "2",
+                            "ut": "2021-04-14T02:06:54+00:00"
+                        },
+                        "49753395": {
+                            "id": "49753395",
+                            "event_participantsFK": "12792637",
+                            "result_typeFK": "4",
+                            "result_code": "finalresult",
+                            "value": "2",
+                            "n": "0",
+                            "ut": "2021-04-14T02:25:12+00:00"
+                        }
+                    },
+                    "participant": {
+                        "id": "10083",
+                        "name": "San Lorenzo",
+                        "gender": "male",
+                        "type": "team",
+                        "countryFK": "48",
+                        "n": "2",
+                        "ut": "2018-06-05T08:15:20+00:00",
+                        "country_name": "Argentina",
+                        "country_code": "ARG"
+                    }
+                }
+            },
+            "elapsed": {
+                "1593829": {
+                    "id": "1593829",
+                    "elapsed": "90",
+                    "injury_time": "no",
+                    "injury_time_elapsed": "0",
+                    "time_type": "minute",
+                    "n": "102",
+                    "ut": "2021-04-14T02:25:13+00:00"
+                }
+            }
+        },
+        "3566932": {
+            "id": "3566932",
+            "name": "Club Atletico Penarol-Cerro Largo",
+            "tournament_stageFK": "872473",
+            "startdate": "2021-04-14T00:30:00+00:00",
+            "status_type": "Finished",
+            "status_descFK": "6",
+            "round_typeFK": "9",
+            "n": "5",
+            "ut": "2021-04-14T03:47:05+00:00",
+            "tournamentFK": "16112",
+            "tournament_templateFK": "299",
+            "sportFK": "1",
+            "tournament_stage_name": "Copa Sudamericana Qualification",
+            "tournament_name": "2021",
+            "tournament_template_name": "Copa Sudamericana",
+            "sport_name": "Football",
+            "gender": "male",
+            "event_participants": {
+                "12838427": {
+                    "id": "12838427",
+                    "number": "1",
+                    "participantFK": "8450",
+                    "eventFK": "3566932",
+                    "n": "0",
+                    "ut": "2021-04-01T07:00:44+00:00",
+                    "result": {
+                        "49753204": {
+                            "id": "49753204",
+                            "event_participantsFK": "12838427",
+                            "result_typeFK": "5",
+                            "result_code": "halftime",
+                            "value": "3",
+                            "n": "0",
+                            "ut": "2021-04-14T01:19:06+00:00"
+                        },
+                        "49530280": {
+                            "id": "49530280",
+                            "event_participantsFK": "12838427",
+                            "result_typeFK": "6",
+                            "result_code": "runningscore",
+                            "value": "4",
+                            "n": "4",
+                            "ut": "2021-04-14T01:48:04+00:00"
+                        },
+                        "49530282": {
+                            "id": "49530282",
+                            "event_participantsFK": "12838427",
+                            "result_typeFK": "1",
+                            "result_code": "ordinarytime",
+                            "value": "4",
+                            "n": "4",
+                            "ut": "2021-04-14T01:48:04+00:00"
+                        },
+                        "49753390": {
+                            "id": "49753390",
+                            "event_participantsFK": "12838427",
+                            "result_typeFK": "4",
+                            "result_code": "finalresult",
+                            "value": "4",
+                            "n": "0",
+                            "ut": "2021-04-14T02:23:24+00:00"
+                        }
+                    },
+                    "participant": {
+                        "id": "8450",
+                        "name": "Club Atletico Penarol",
+                        "gender": "male",
+                        "type": "team",
+                        "countryFK": "79",
+                        "n": "3",
+                        "ut": "2020-03-09T23:19:58+00:00",
+                        "country_name": "Uruguay",
+                        "country_code": "URU"
+                    }
+                },
+                "12838428": {
+                    "id": "12838428",
+                    "number": "2",
+                    "participantFK": "148967",
+                    "eventFK": "3566932",
+                    "n": "0",
+                    "ut": "2021-04-01T07:00:44+00:00",
+                    "result": {
+                        "49530281": {
+                            "id": "49530281",
+                            "event_participantsFK": "12838428",
+                            "result_typeFK": "6",
+                            "result_code": "runningscore",
+                            "value": "1",
+                            "n": "1",
+                            "ut": "2021-04-14T00:50:03+00:00"
+                        },
+                        "49530284": {
+                            "id": "49530284",
+                            "event_participantsFK": "12838428",
+                            "result_typeFK": "1",
+                            "result_code": "ordinarytime",
+                            "value": "1",
+                            "n": "1",
+                            "ut": "2021-04-14T00:50:03+00:00"
+                        },
+                        "49753205": {
+                            "id": "49753205",
+                            "event_participantsFK": "12838428",
+                            "result_typeFK": "5",
+                            "result_code": "halftime",
+                            "value": "1",
+                            "n": "0",
+                            "ut": "2021-04-14T01:19:06+00:00"
+                        },
+                        "49753391": {
+                            "id": "49753391",
+                            "event_participantsFK": "12838428",
+                            "result_typeFK": "4",
+                            "result_code": "finalresult",
+                            "value": "1",
+                            "n": "0",
+                            "ut": "2021-04-14T02:23:24+00:00"
+                        }
+                    },
+                    "participant": {
+                        "id": "148967",
+                        "name": "Cerro Largo",
+                        "gender": "male",
+                        "type": "team",
+                        "countryFK": "79",
+                        "n": "0",
+                        "ut": "2020-03-09T23:25:00+00:00",
+                        "country_name": "Uruguay",
+                        "country_code": "URU"
+                    }
+                }
+            },
+            "elapsed": {
+                "1593831": {
+                    "id": "1593831",
+                    "elapsed": "90",
+                    "injury_time": "no",
+                    "injury_time_elapsed": "0",
+                    "time_type": "minute",
+                    "n": "101",
+                    "ut": "2021-04-14T02:23:25+00:00"
+                }
+            }
+        },
+        "3533102": {
+            "id": "3533102",
+            "name": "Cruz Azul-Arcahaie",
+            "tournament_stageFK": "872002",
+            "startdate": "2021-04-14T02:30:00+00:00",
+            "status_type": "Finished",
+            "status_descFK": "6",
+            "round_typeFK": "4",
+            "n": "7",
+            "ut": "2021-04-14T04:18:32+00:00",
+            "tournamentFK": "16079",
+            "tournament_templateFK": "297",
+            "sportFK": "1",
+            "tournament_stage_name": "CONCACAF Champions League",
+            "tournament_name": "2021",
+            "tournament_template_name": "CONCACAF Champions League",
+            "sport_name": "Football",
+            "gender": "male",
+            "event_participants": {
+                "12681123": {
+                    "id": "12681123",
+                    "number": "2",
+                    "participantFK": "1128008",
+                    "eventFK": "3533102",
+                    "n": "0",
+                    "ut": "2021-02-11T17:03:14+00:00",
+                    "result": {
+                        "48587101": {
+                            "id": "48587101",
+                            "event_participantsFK": "12681123",
+                            "result_typeFK": "6",
+                            "result_code": "runningscore",
+                            "value": "0",
+                            "n": "0",
+                            "ut": "2021-02-11T17:04:08+00:00"
+                        },
+                        "48587103": {
+                            "id": "48587103",
+                            "event_participantsFK": "12681123",
+                            "result_typeFK": "1",
+                            "result_code": "ordinarytime",
+                            "value": "0",
+                            "n": "0",
+                            "ut": "2021-02-11T17:04:08+00:00"
+                        },
+                        "49753493": {
+                            "id": "49753493",
+                            "event_participantsFK": "12681123",
+                            "result_typeFK": "5",
+                            "result_code": "halftime",
+                            "value": "0",
+                            "n": "0",
+                            "ut": "2021-04-14T03:17:27+00:00"
+                        },
+                        "49753830": {
+                            "id": "49753830",
+                            "event_participantsFK": "12681123",
+                            "result_typeFK": "4",
+                            "result_code": "finalresult",
+                            "value": "0",
+                            "n": "0",
+                            "ut": "2021-04-14T04:17:44+00:00"
+                        }
+                    },
+                    "participant": {
+                        "id": "1128008",
+                        "name": "Arcahaie",
+                        "gender": "male",
+                        "type": "team",
+                        "countryFK": "139",
+                        "n": "0",
+                        "ut": "2020-01-23T09:06:34+00:00",
+                        "country_name": "Haiti",
+                        "country_code": "HTI"
+                    }
+                },
+                "12681124": {
+                    "id": "12681124",
+                    "number": "1",
+                    "participantFK": "6578",
+                    "eventFK": "3533102",
+                    "n": "0",
+                    "ut": "2021-02-11T17:03:14+00:00",
+                    "result": {
+                        "49753492": {
+                            "id": "49753492",
+                            "event_participantsFK": "12681124",
+                            "result_typeFK": "5",
+                            "result_code": "halftime",
+                            "value": "3",
+                            "n": "0",
+                            "ut": "2021-04-14T03:17:27+00:00"
+                        },
+                        "48587102": {
+                            "id": "48587102",
+                            "event_participantsFK": "12681124",
+                            "result_typeFK": "6",
+                            "result_code": "runningscore",
+                            "value": "8",
+                            "n": "8",
+                            "ut": "2021-04-14T04:01:57+00:00"
+                        },
+                        "48587104": {
+                            "id": "48587104",
+                            "event_participantsFK": "12681124",
+                            "result_typeFK": "1",
+                            "result_code": "ordinarytime",
+                            "value": "8",
+                            "n": "8",
+                            "ut": "2021-04-14T04:01:57+00:00"
+                        },
+                        "49753829": {
+                            "id": "49753829",
+                            "event_participantsFK": "12681124",
+                            "result_typeFK": "4",
+                            "result_code": "finalresult",
+                            "value": "8",
+                            "n": "0",
+                            "ut": "2021-04-14T04:17:44+00:00"
+                        }
+                    },
+                    "participant": {
+                        "id": "6578",
+                        "name": "Cruz Azul",
+                        "gender": "male",
+                        "type": "team",
+                        "countryFK": "114",
+                        "n": "2",
+                        "ut": "2018-06-05T07:33:41+00:00",
+                        "country_name": "Mexico",
+                        "country_code": "MEX"
+                    }
+                }
+            },
+            "elapsed": {
+                "1593834": {
+                    "id": "1593834",
+                    "elapsed": "90",
+                    "injury_time": "no",
+                    "injury_time_elapsed": "0",
+                    "time_type": "minute",
+                    "n": "94",
+                    "ut": "2021-04-14T04:17:44+00:00"
+                }
+            }
+        },
+        "3557612": {
+            "id": "3557612",
+            "name": "Borussia Dortmund-Manchester City",
+            "tournament_stageFK": "870703",
+            "startdate": "2021-04-14T19:00:00+00:00",
+            "status_type": "Not started",
+            "status_descFK": "1",
+            "round_typeFK": "3",
+            "n": "1",
+            "ut": "2021-04-13T13:41:41+00:00",
+            "tournamentFK": "15237",
+            "tournament_templateFK": "42",
+            "sportFK": "1",
+            "tournament_stage_name": "Champions League Final Stage",
+            "tournament_name": "2020/2021",
+            "tournament_template_name": "Champions League",
+            "sport_name": "Football",
+            "gender": "male",
+            "event_participants": {
+                "12797768": {
+                    "id": "12797768",
+                    "number": "1",
+                    "participantFK": "9789",
+                    "eventFK": "3557612",
+                    "n": "0",
+                    "ut": "2021-04-13T15:39:41+00:00",
+                    "result": {
+                        "49288116": {
+                            "id": "49288116",
+                            "event_participantsFK": "12797768",
+                            "result_typeFK": "1",
+                            "result_code": "ordinarytime",
+                            "value": "0",
+                            "n": "0",
+                            "ut": "2021-03-19T11:16:16+00:00"
+                        },
+                        "49288118": {
+                            "id": "49288118",
+                            "event_participantsFK": "12797768",
+                            "result_typeFK": "6",
+                            "result_code": "runningscore",
+                            "value": "0",
+                            "n": "0",
+                            "ut": "2021-03-19T11:16:16+00:00"
+                        }
+                    },
+                    "participant": {
+                        "id": "9789",
+                        "name": "Borussia Dortmund",
+                        "gender": "male",
+                        "type": "team",
+                        "countryFK": "3",
+                        "n": "3",
+                        "ut": "2021-02-19T09:05:49+00:00",
+                        "country_name": "Germany",
+                        "country_code": "GER"
+                    }
+                },
+                "12797769": {
+                    "id": "12797769",
+                    "number": "2",
+                    "participantFK": "8456",
+                    "eventFK": "3557612",
+                    "n": "0",
+                    "ut": "2021-04-13T15:41:13+00:00",
+                    "result": {
+                        "49288117": {
+                            "id": "49288117",
+                            "event_participantsFK": "12797769",
+                            "result_typeFK": "1",
+                            "result_code": "ordinarytime",
+                            "value": "0",
+                            "n": "0",
+                            "ut": "2021-03-19T11:16:16+00:00"
+                        },
+                        "49288119": {
+                            "id": "49288119",
+                            "event_participantsFK": "12797769",
+                            "result_typeFK": "6",
+                            "result_code": "runningscore",
+                            "value": "0",
+                            "n": "0",
+                            "ut": "2021-03-19T11:16:16+00:00"
+                        }
+                    },
+                    "participant": {
+                        "id": "8456",
+                        "name": "Manchester City",
+                        "gender": "male",
+                        "type": "team",
+                        "countryFK": "2",
+                        "n": "2",
+                        "ut": "2021-02-19T09:05:08+00:00",
+                        "country_name": "England",
+                        "country_code": "ENG"
+                    }
+                }
+            }
+        },
+        "3557618": {
+            "id": "3557618",
+            "name": "Liverpool-Real Madrid",
+            "tournament_stageFK": "870703",
+            "startdate": "2021-04-14T19:00:00+00:00",
+            "status_type": "Not started",
+            "status_descFK": "1",
+            "round_typeFK": "3",
+            "n": "1",
+            "ut": "2021-04-13T13:43:15+00:00",
+            "tournamentFK": "15237",
+            "tournament_templateFK": "42",
+            "sportFK": "1",
+            "tournament_stage_name": "Champions League Final Stage",
+            "tournament_name": "2020/2021",
+            "tournament_template_name": "Champions League",
+            "sport_name": "Football",
+            "gender": "male",
+            "event_participants": {
+                "12797780": {
+                    "id": "12797780",
+                    "number": "1",
+                    "participantFK": "8650",
+                    "eventFK": "3557618",
+                    "n": "0",
+                    "ut": "2021-04-13T15:45:21+00:00",
+                    "result": {
+                        "49288140": {
+                            "id": "49288140",
+                            "event_participantsFK": "12797780",
+                            "result_typeFK": "1",
+                            "result_code": "ordinarytime",
+                            "value": "0",
+                            "n": "0",
+                            "ut": "2021-03-19T11:16:16+00:00"
+                        },
+                        "49288142": {
+                            "id": "49288142",
+                            "event_participantsFK": "12797780",
+                            "result_typeFK": "6",
+                            "result_code": "runningscore",
+                            "value": "0",
+                            "n": "0",
+                            "ut": "2021-03-19T11:16:16+00:00"
+                        }
+                    },
+                    "participant": {
+                        "id": "8650",
+                        "name": "Liverpool",
+                        "gender": "male",
+                        "type": "team",
+                        "countryFK": "2",
+                        "n": "2",
+                        "ut": "2019-05-17T12:44:46+00:00",
+                        "country_name": "England",
+                        "country_code": "ENG"
+                    }
+                },
+                "12797781": {
+                    "id": "12797781",
+                    "number": "2",
+                    "participantFK": "8633",
+                    "eventFK": "3557618",
+                    "n": "0",
+                    "ut": "2021-04-13T15:46:06+00:00",
+                    "result": {
+                        "49288141": {
+                            "id": "49288141",
+                            "event_participantsFK": "12797781",
+                            "result_typeFK": "1",
+                            "result_code": "ordinarytime",
+                            "value": "0",
+                            "n": "0",
+                            "ut": "2021-03-19T11:16:16+00:00"
+                        },
+                        "49288143": {
+                            "id": "49288143",
+                            "event_participantsFK": "12797781",
+                            "result_typeFK": "6",
+                            "result_code": "runningscore",
+                            "value": "0",
+                            "n": "0",
+                            "ut": "2021-03-19T11:16:16+00:00"
+                        }
+                    },
+                    "participant": {
+                        "id": "8633",
+                        "name": "Real Madrid",
+                        "gender": "male",
+                        "type": "team",
+                        "countryFK": "8",
+                        "n": "2",
+                        "ut": "2019-12-15T21:06:30+00:00",
+                        "country_name": "Spain",
+                        "country_code": "ESP"
+                    }
+                }
+            }
+        },
+        "3559661": {
+            "id": "3559661",
+            "name": "Toronto FC-Leon",
+            "tournament_stageFK": "872002",
+            "startdate": "2021-04-14T22:00:00+00:00",
+            "status_type": "Not started",
+            "status_descFK": "1",
+            "round_typeFK": "4",
+            "n": "1",
+            "ut": "2021-03-22T15:51:35+00:00",
+            "tournamentFK": "16079",
+            "tournament_templateFK": "297",
+            "sportFK": "1",
+            "tournament_stage_name": "CONCACAF Champions League",
+            "tournament_name": "2021",
+            "tournament_template_name": "CONCACAF Champions League",
+            "sport_name": "Football",
+            "gender": "male",
+            "event_participants": {
+                "12807972": {
+                    "id": "12807972",
+                    "number": "1",
+                    "participantFK": "56453",
+                    "eventFK": "3559661",
+                    "n": "0",
+                    "ut": "2021-03-22T15:40:14+00:00",
+                    "result": {
+                        "49353106": {
+                            "id": "49353106",
+                            "event_participantsFK": "12807972",
+                            "result_typeFK": "6",
+                            "result_code": "runningscore",
+                            "value": "0",
+                            "n": "0",
+                            "ut": "2021-03-22T15:40:26+00:00"
+                        },
+                        "49353108": {
+                            "id": "49353108",
+                            "event_participantsFK": "12807972",
+                            "result_typeFK": "1",
+                            "result_code": "ordinarytime",
+                            "value": "0",
+                            "n": "0",
+                            "ut": "2021-03-22T15:40:26+00:00"
+                        }
+                    },
+                    "participant": {
+                        "id": "56453",
+                        "name": "Toronto FC",
+                        "gender": "male",
+                        "type": "team",
+                        "countryFK": "23",
+                        "n": "1",
+                        "ut": "2019-08-23T19:38:12+00:00",
+                        "country_name": "Canada",
+                        "country_code": "CAN"
+                    }
+                },
+                "12807973": {
+                    "id": "12807973",
+                    "number": "2",
+                    "participantFK": "1841",
+                    "eventFK": "3559661",
+                    "n": "0",
+                    "ut": "2021-03-22T15:40:14+00:00",
+                    "result": {
+                        "49353107": {
+                            "id": "49353107",
+                            "event_participantsFK": "12807973",
+                            "result_typeFK": "6",
+                            "result_code": "runningscore",
+                            "value": "0",
+                            "n": "0",
+                            "ut": "2021-03-22T15:40:26+00:00"
+                        },
+                        "49353109": {
+                            "id": "49353109",
+                            "event_participantsFK": "12807973",
+                            "result_typeFK": "1",
+                            "result_code": "ordinarytime",
+                            "value": "0",
+                            "n": "0",
+                            "ut": "2021-03-22T15:40:26+00:00"
+                        }
+                    },
+                    "participant": {
+                        "id": "1841",
+                        "name": "Leon",
+                        "gender": "male",
+                        "type": "team",
+                        "countryFK": "114",
+                        "n": "2",
+                        "ut": "2018-06-05T08:05:13+00:00",
+                        "country_name": "Mexico",
+                        "country_code": "MEX"
+                    }
+                }
+            }
+        },
+        "3555972": {
+            "id": "3555972",
+            "name": "Gremio-Independiente del Valle",
+            "tournament_stageFK": "871980",
+            "startdate": "2021-04-14T22:15:00+00:00",
+            "status_type": "Not started",
+            "status_descFK": "1",
+            "round_typeFK": "91",
+            "n": "4",
+            "ut": "2021-03-21T20:00:15+00:00",
+            "tournamentFK": "16073",
+            "tournament_templateFK": "45",
+            "sportFK": "1",
+            "tournament_stage_name": "Copa Libertadores Qualification",
+            "tournament_name": "2021",
+            "tournament_template_name": "Copa Libertadores",
+            "sport_name": "Football",
+            "gender": "male",
+            "event_participants": {
+                "12790201": {
+                    "id": "12790201",
+                    "number": "2",
+                    "participantFK": "192875",
+                    "eventFK": "3555972",
+                    "n": "1",
+                    "ut": "2021-03-18T09:15:19+00:00",
+                    "result": {
+                        "49239954": {
+                            "id": "49239954",
+                            "event_participantsFK": "12790201",
+                            "result_typeFK": "6",
+                            "result_code": "runningscore",
+                            "value": "0",
+                            "n": "0",
+                            "ut": "2021-03-17T09:17:08+00:00"
+                        },
+                        "49239956": {
+                            "id": "49239956",
+                            "event_participantsFK": "12790201",
+                            "result_typeFK": "1",
+                            "result_code": "ordinarytime",
+                            "value": "0",
+                            "n": "0",
+                            "ut": "2021-03-17T09:17:08+00:00"
+                        }
+                    },
+                    "participant": {
+                        "id": "192875",
+                        "name": "Independiente del Valle",
+                        "gender": "male",
+                        "type": "team",
+                        "countryFK": "80",
+                        "n": "1",
+                        "ut": "2020-03-09T23:19:08+00:00",
+                        "country_name": "Ecuador",
+                        "country_code": "ECU"
+                    }
+                },
+                "12790211": {
+                    "id": "12790211",
+                    "number": "1",
+                    "participantFK": "9769",
+                    "eventFK": "3555972",
+                    "n": "1",
+                    "ut": "2021-03-18T09:15:19+00:00",
+                    "result": {
+                        "49239955": {
+                            "id": "49239955",
+                            "event_participantsFK": "12790211",
+                            "result_typeFK": "6",
+                            "result_code": "runningscore",
+                            "value": "0",
+                            "n": "0",
+                            "ut": "2021-03-17T09:17:08+00:00"
+                        },
+                        "49239969": {
+                            "id": "49239969",
+                            "event_participantsFK": "12790211",
+                            "result_typeFK": "1",
+                            "result_code": "ordinarytime",
+                            "value": "0",
+                            "n": "0",
+                            "ut": "2021-03-17T09:17:09+00:00"
+                        }
+                    },
+                    "participant": {
+                        "id": "9769",
+                        "name": "Gremio",
+                        "gender": "male",
+                        "type": "team",
+                        "countryFK": "51",
+                        "n": "2",
+                        "ut": "2020-02-27T13:37:51+00:00",
+                        "country_name": "Brazil",
+                        "country_code": "BRA"
+                    }
+                }
+            }
+        },
+        "3565396": {
+            "id": "3565396",
+            "name": "Fenix-Montevideo City Torque",
+            "tournament_stageFK": "872473",
+            "startdate": "2021-04-14T22:15:00+00:00",
+            "status_type": "Not started",
+            "status_descFK": "1",
+            "round_typeFK": "9",
+            "n": "1",
+            "ut": "2021-03-30T11:06:29+00:00",
+            "tournamentFK": "16112",
+            "tournament_templateFK": "299",
+            "sportFK": "1",
+            "tournament_stage_name": "Copa Sudamericana Qualification",
+            "tournament_name": "2021",
+            "tournament_template_name": "Copa Sudamericana",
+            "sport_name": "Football",
+            "gender": "male",
+            "event_participants": {
+                "12833968": {
+                    "id": "12833968",
+                    "number": "1",
+                    "participantFK": "7808",
+                    "eventFK": "3565396",
+                    "n": "0",
+                    "ut": "2021-03-30T10:32:21+00:00",
+                    "result": {
+                        "49503099": {
+                            "id": "49503099",
+                            "event_participantsFK": "12833968",
+                            "result_typeFK": "6",
+                            "result_code": "runningscore",
+                            "value": "0",
+                            "n": "0",
+                            "ut": "2021-03-30T10:33:20+00:00"
+                        },
+                        "49503101": {
+                            "id": "49503101",
+                            "event_participantsFK": "12833968",
+                            "result_typeFK": "1",
+                            "result_code": "ordinarytime",
+                            "value": "0",
+                            "n": "0",
+                            "ut": "2021-03-30T10:33:21+00:00"
+                        }
+                    },
+                    "participant": {
+                        "id": "7808",
+                        "name": "Fenix",
+                        "gender": "male",
+                        "type": "team",
+                        "countryFK": "79",
+                        "n": "2",
+                        "ut": "2018-06-05T07:35:34+00:00",
+                        "country_name": "Uruguay",
+                        "country_code": "URU"
+                    }
+                },
+                "12833969": {
+                    "id": "12833969",
+                    "number": "2",
+                    "participantFK": "395613",
+                    "eventFK": "3565396",
+                    "n": "0",
+                    "ut": "2021-03-30T10:32:21+00:00",
+                    "result": {
+                        "49503100": {
+                            "id": "49503100",
+                            "event_participantsFK": "12833969",
+                            "result_typeFK": "6",
+                            "result_code": "runningscore",
+                            "value": "0",
+                            "n": "0",
+                            "ut": "2021-03-30T10:33:20+00:00"
+                        },
+                        "49503102": {
+                            "id": "49503102",
+                            "event_participantsFK": "12833969",
+                            "result_typeFK": "1",
+                            "result_code": "ordinarytime",
+                            "value": "0",
+                            "n": "0",
+                            "ut": "2021-03-30T10:33:21+00:00"
+                        }
+                    },
+                    "participant": {
+                        "id": "395613",
+                        "name": "Montevideo City Torque",
+                        "gender": "male",
+                        "type": "team",
+                        "countryFK": "79",
+                        "n": "1",
+                        "ut": "2020-01-28T12:11:19+00:00",
+                        "country_name": "Uruguay",
+                        "country_code": "URU"
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "events": {
+        "3533104": {
+            "id": "3533104",
+            "name": "Portland Timbers-CD Marathon",
+            "tournament_stageFK": "872002",
+            "startdate": "2021-04-14T00:00:00+00:00",
+            "status_type": "Finished",
+            "status_descFK": "6",
+            "round_typeFK": "4",
+            "n": "6",
+            "ut": "2021-04-14T02:05:33+00:00",
+            "tournamentFK": "16079",
+            "tournament_templateFK": "297",
+            "sportFK": "1",
+            "tournament_stage_name": "CONCACAF Champions League",
+            "tournament_name": "2021",
+            "tournament_template_name": "CONCACAF Champions League",
+            "sport_name": "Football",
+            "gender": "male"
+        },
+        "3556453": {
+            "id": "3556453",
+            "name": "Santos FC-San Lorenzo",
+            "tournament_stageFK": "871980",
+            "startdate": "2021-04-14T00:30:00+00:00",
+            "status_type": "Finished",
+            "status_descFK": "6",
+            "round_typeFK": "91",
+            "n": "6",
+            "ut": "2021-04-14T03:46:47+00:00",
+            "tournamentFK": "16073",
+            "tournament_templateFK": "45",
+            "sportFK": "1",
+            "tournament_stage_name": "Copa Libertadores Qualification",
+            "tournament_name": "2021",
+            "tournament_template_name": "Copa Libertadores",
+            "sport_name": "Football",
+            "gender": "male"
+        }
+       
+    }
+}

@@ -368,13 +368,13 @@
                     ],
                     "participant": {
                         "id": "7724",
-                        "name": "Trinidad y Tobago",
+                        "name": "Trinidad And Tobago",
                         "gender": "male",
                         "type": "team",
                         "countryFK": "113",
                         "n": "0",
                         "ut": "2018-09-21T03:18:01+00:00",
-                        "country_name": "Trinidad y Tobago"
+                        "country_name": "Trinidad And Tobago"
                     }
                 },
                 "3370494": {
@@ -460,13 +460,13 @@
                     ],
                     "participant": {
                         "id": "5810",
-                        "name": "Canadá",
+                        "name": "Canada",
                         "gender": "male",
                         "type": "team",
                         "countryFK": "23",
                         "n": "2",
                         "ut": "2020-09-18T12:59:06+00:00",
-                        "country_name": "Canadá"
+                        "country_name": "Canada"
                     }
                 },
                 "3370495": {
@@ -644,13 +644,13 @@
                     ],
                     "participant": {
                         "id": "5859",
-                        "name": "Martinica",
+                        "name": "Martinique",
                         "gender": "male",
                         "type": "team",
                         "countryFK": "138",
                         "n": "2",
                         "ut": "2020-09-18T12:59:06+00:00",
-                        "country_name": "Martinica"
+                        "country_name": "Martinique"
                     }
                 },
                 "3370498": {
@@ -736,13 +736,13 @@
                     ],
                     "participant": {
                         "id": "6713",
-                        "name": "Usa",
+                        "name": "USA",
                         "gender": "male",
                         "type": "team",
                         "countryFK": "16",
                         "n": "2",
                         "ut": "2020-09-18T12:59:06+00:00",
-                        "country_name": "Usa"
+                        "country_name": "USA"
                     }
                 },
                 "3370499": {
@@ -1104,13 +1104,13 @@
                     ],
                     "participant": {
                         "id": "127411",
-                        "name": "Surinam",
+                        "name": "Suriname",
                         "gender": "male",
                         "type": "team",
                         "countryFK": "220",
                         "n": "2",
                         "ut": "2020-09-18T12:59:06+00:00",
-                        "country_name": "Surinam"
+                        "country_name": "Suriname"
                     }
                 },
                 "3370503": {
@@ -1196,13 +1196,13 @@
                     ],
                     "participant": {
                         "id": "6548",
-                        "name": "Granada",
+                        "name": "Grenada",
                         "gender": "male",
                         "type": "team",
                         "countryFK": "213",
                         "n": "2",
                         "ut": "2020-09-18T12:59:06+00:00",
-                        "country_name": "Granada"
+                        "country_name": "Grenada"
                     }
                 },
                 "3370504111": {

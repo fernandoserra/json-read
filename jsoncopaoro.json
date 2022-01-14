@@ -1,0 +1,679 @@
+{
+    "standings": {
+        "326381": {
+            "id": "326381",
+            "object": "tournament_stage",
+            "objectFK": "868824",
+            "standing_typeFK": "1",
+            "name": "Ligatable test",
+            "n": "0",
+            "ut": "2021-04-26T20:53:41+00:00",
+            "standing_participants": {
+                "3800796": {
+                    "id": "3800796",
+                    "standingFK": "326381",
+                    "participantFK": "5810",
+                    "n": "76",
+                    "ut": "2021-04-26T20:53:36+00:00",
+                    "rank": "1",
+                    "standing_data": [
+                        {
+                            "id": "131666230",
+                            "standing_type_paramFK": "1",
+                            "value": "0",
+                            "code": "points",
+                            "n": "29",
+                            "ut": "2021-04-21T21:09:16+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "131666231",
+                            "standing_type_paramFK": "2",
+                            "value": "0",
+                            "code": "goalsfor",
+                            "n": "30",
+                            "ut": "2021-04-21T21:09:16+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "131666232",
+                            "standing_type_paramFK": "3",
+                            "value": "0",
+                            "code": "goalsagainst",
+                            "n": "16",
+                            "ut": "2021-04-21T21:09:16+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "131666235",
+                            "standing_type_paramFK": "7",
+                            "value": "0",
+                            "code": "draws",
+                            "n": "5",
+                            "ut": "2020-12-15T21:51:34+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "131666236",
+                            "standing_type_paramFK": "9",
+                            "value": "0",
+                            "code": "played",
+                            "n": "33",
+                            "ut": "2021-04-21T21:09:16+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "131666237",
+                            "standing_type_paramFK": "10",
+                            "value": "0",
+                            "code": "wins",
+                            "n": "24",
+                            "ut": "2021-04-21T21:09:16+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "131666238",
+                            "standing_type_paramFK": "11",
+                            "value": "0",
+                            "code": "defeits",
+                            "n": "4",
+                            "ut": "2021-04-10T13:30:00+00:00",
+                            "sub_param": ""
+                        }
+                    ],
+                    "participant": {
+                        "id": "5810",
+                        "name": "Canadá",
+                        "gender": "male",
+                        "type": "team",
+                        "countryFK": "2",
+                        "n": "2",
+                        "ut": "2021-02-19T09:05:08+00:00",
+                        "country_name": "Canadá"
+                    }
+                },
+                "3800811": {
+                    "id": "3800811",
+                    "standingFK": "326381",
+                    "participantFK": "6705",
+                    "n": "57",
+                    "ut": "2021-04-26T20:53:36+00:00",
+                    "rank": "2",
+                    "standing_data": [
+                        {
+                            "id": "131669515",
+                            "standing_type_paramFK": "1",
+                            "value": "0",
+                            "code": "points",
+                            "n": "29",
+                            "ut": "2021-04-25T14:52:16+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "131669516",
+                            "standing_type_paramFK": "2",
+                            "value": "0",
+                            "code": "goalsfor",
+                            "n": "25",
+                            "ut": "2021-04-18T16:52:53+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "131669517",
+                            "standing_type_paramFK": "3",
+                            "value": "0",
+                            "code": "goalsagainst",
+                            "n": "20",
+                            "ut": "2021-04-18T16:52:53+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "131669520",
+                            "standing_type_paramFK": "7",
+                            "value": "0",
+                            "code": "draws",
+                            "n": "10",
+                            "ut": "2021-04-25T14:52:16+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "131669521",
+                            "standing_type_paramFK": "9",
+                            "value": "0",
+                            "code": "played",
+                            "n": "33",
+                            "ut": "2021-04-25T14:52:16+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "131669522",
+                            "standing_type_paramFK": "10",
+                            "value": "0",
+                            "code": "wins",
+                            "n": "19",
+                            "ut": "2021-04-18T16:52:53+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "131669523",
+                            "standing_type_paramFK": "11",
+                            "value": "0",
+                            "code": "defeits",
+                            "n": "4",
+                            "ut": "2021-01-27T22:10:10+00:00",
+                            "sub_param": ""
+                        }
+                    ],
+                    "participant": {
+                        "id": "6705",
+                        "name": "Costa Rica",
+                        "gender": "male",
+                        "type": "team",
+                        "countryFK": "2",
+                        "n": "2",
+                        "ut": "2021-02-19T08:36:36+00:00",
+                        "country_name": "Costa Rica"
+                    }
+                },
+                "3808916": {
+                    "id": "3808916",
+                    "standingFK": "326381",
+                    "participantFK": "6327",
+                    "n": "64",
+                    "ut": "2021-04-26T20:53:36+00:00",
+                    "rank": "3",
+                    "standing_data": [
+                        {
+                            "id": "132178763",
+                            "standing_type_paramFK": "1",
+                            "value": "0",
+                            "code": "points",
+                            "n": "24",
+                            "ut": "2021-04-26T20:53:36+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "132178764",
+                            "standing_type_paramFK": "2",
+                            "value": "0",
+                            "code": "goalsfor",
+                            "n": "27",
+                            "ut": "2021-04-26T20:53:36+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "132178765",
+                            "standing_type_paramFK": "3",
+                            "value": "0",
+                            "code": "goalsagainst",
+                            "n": "22",
+                            "ut": "2021-04-26T20:53:36+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "132178768",
+                            "standing_type_paramFK": "7",
+                            "value": "0",
+                            "code": "draws",
+                            "n": "5",
+                            "ut": "2021-03-03T19:50:52+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "132178769",
+                            "standing_type_paramFK": "9",
+                            "value": "0",
+                            "code": "played",
+                            "n": "33",
+                            "ut": "2021-04-26T20:53:36+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "132178770",
+                            "standing_type_paramFK": "10",
+                            "value": "0",
+                            "code": "wins",
+                            "n": "19",
+                            "ut": "2021-04-26T20:53:36+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "132178771",
+                            "standing_type_paramFK": "11",
+                            "value": "0",
+                            "code": "defeits",
+                            "n": "9",
+                            "ut": "2021-04-11T15:01:38+00:00",
+                            "sub_param": ""
+                        }
+                    ],
+                    "participant": {
+                        "id": "6327",
+                        "name": "El Salvador",
+                        "gender": "male",
+                        "type": "team",
+                        "countryFK": "2",
+                        "n": "3",
+                        "ut": "2021-02-19T08:36:50+00:00",
+                        "country_name": "El Salvador"
+                    }
+                },
+                "3808917": {
+                    "id": "3808917",
+                    "standingFK": "326381",
+                    "participantFK": "5808",
+                    "n": "84",
+                    "ut": "2021-04-26T20:53:36+00:00",
+                    "rank": "4",
+                    "standing_data": [
+                        {
+                            "id": "132178982",
+                            "standing_type_paramFK": "1",
+                            "value": "0",
+                            "code": "points",
+                            "n": "26",
+                            "ut": "2021-04-24T18:23:36+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "132178983",
+                            "standing_type_paramFK": "2",
+                            "value": "0",
+                            "code": "goalsfor",
+                            "n": "24",
+                            "ut": "2021-04-24T18:23:36+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "132178984",
+                            "standing_type_paramFK": "3",
+                            "value": "0",
+                            "code": "goalsagainst",
+                            "n": "16",
+                            "ut": "2021-04-10T18:21:09+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "132178987",
+                            "standing_type_paramFK": "7",
+                            "value": "0",
+                            "code": "draws",
+                            "n": "10",
+                            "ut": "2021-04-20T21:09:21+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "132178988",
+                            "standing_type_paramFK": "9",
+                            "value": "0",
+                            "code": "played",
+                            "n": "33",
+                            "ut": "2021-04-24T18:23:36+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "132178989",
+                            "standing_type_paramFK": "10",
+                            "value": "0",
+                            "code": "wins",
+                            "n": "16",
+                            "ut": "2021-04-24T18:23:36+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "132178990",
+                            "standing_type_paramFK": "11",
+                            "value": "0",
+                            "code": "defeits",
+                            "n": "7",
+                            "ut": "2021-04-03T13:26:06+00:00",
+                            "sub_param": ""
+                        }
+                    ],
+                    "participant": {
+                        "id": "5808",
+                        "name": "Honduras",
+                        "gender": "male",
+                        "type": "team",
+                        "countryFK": "2",
+                        "n": "2",
+                        "ut": "2019-05-17T09:56:36+00:00",
+                        "country_name": "Honduras"
+                    }
+                },
+                "3808930": {
+                    "id": "3808930",
+                    "standingFK": "326381",
+                    "participantFK": "5806",
+                    "n": "72",
+                    "ut": "2021-04-24T18:23:37+00:00",
+                    "rank": "5",
+                    "standing_data": [
+                        {
+                            "id": "132180443",
+                            "standing_type_paramFK": "1",
+                            "value": "0",
+                            "code": "points",
+                            "n": "23",
+                            "ut": "2021-04-11T15:01:39+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "132180444",
+                            "standing_type_paramFK": "2",
+                            "value": "0",
+                            "code": "goalsfor",
+                            "n": "27",
+                            "ut": "2021-04-17T13:29:44+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "132180445",
+                            "standing_type_paramFK": "3",
+                            "value": "0",
+                            "code": "goalsagainst",
+                            "n": "23",
+                            "ut": "2021-04-24T18:23:36+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "132180448",
+                            "standing_type_paramFK": "7",
+                            "value": "0",
+                            "code": "draws",
+                            "n": "7",
+                            "ut": "2021-03-21T16:52:09+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "132180449",
+                            "standing_type_paramFK": "9",
+                            "value": "0",
+                            "code": "played",
+                            "n": "33",
+                            "ut": "2021-04-24T18:23:36+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "132180450",
+                            "standing_type_paramFK": "10",
+                            "value": "0",
+                            "code": "wins",
+                            "n": "16",
+                            "ut": "2021-04-11T15:01:39+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "132180451",
+                            "standing_type_paramFK": "11",
+                            "value": "0",
+                            "code": "defeits",
+                            "n": "10",
+                            "ut": "2021-04-24T18:23:36+00:00",
+                            "sub_param": ""
+                        }
+                    ],
+                    "participant": {
+                        "id": "5806",
+                        "name": "Jamaica",
+                        "gender": "male",
+                        "type": "team",
+                        "countryFK": "2",
+                        "n": "3",
+                        "ut": "2021-02-19T08:37:24+00:00",
+                        "country_name": "Jamaica"
+                    }
+                },
+                "3808928": {
+                    "id": "3808928",
+                    "standingFK": "326381",
+                    "participantFK": "6710",
+                    "n": "55",
+                    "ut": "2021-04-25T14:52:17+00:00",
+                    "rank": "6",
+                    "standing_data": [
+                        {
+                            "id": "132180199",
+                            "standing_type_paramFK": "1",
+                            "value": "0",
+                            "code": "points",
+                            "n": "24",
+                            "ut": "2021-04-24T13:24:58+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "132180201",
+                            "standing_type_paramFK": "2",
+                            "value": "0",
+                            "code": "goalsfor",
+                            "n": "25",
+                            "ut": "2021-04-24T13:24:58+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "132180203",
+                            "standing_type_paramFK": "3",
+                            "value": "0",
+                            "code": "goalsagainst",
+                            "n": "24",
+                            "ut": "2021-04-24T13:24:58+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "132180208",
+                            "standing_type_paramFK": "7",
+                            "value": "0",
+                            "code": "draws",
+                            "n": "9",
+                            "ut": "2021-04-24T13:24:58+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "132180209",
+                            "standing_type_paramFK": "9",
+                            "value": "0",
+                            "code": "played",
+                            "n": "33",
+                            "ut": "2021-04-24T13:24:58+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "132180210",
+                            "standing_type_paramFK": "10",
+                            "value": "0",
+                            "code": "wins",
+                            "n": "15",
+                            "ut": "2021-04-10T15:57:38+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "132180211",
+                            "standing_type_paramFK": "11",
+                            "value": "0",
+                            "code": "defeits",
+                            "n": "9",
+                            "ut": "2021-03-07T15:54:06+00:00",
+                            "sub_param": ""
+                        }
+                    ],
+                    "participant": {
+                        "id": "6710",
+                        "name": "México",
+                        "gender": "male",
+                        "type": "team",
+                        "countryFK": "2",
+                        "n": "2",
+                        "ut": "2019-05-17T12:44:46+00:00",
+                        "country_name": "México"
+                    }
+                },
+                "3808924": {
+                    "id": "3808924",
+                    "standingFK": "326381",
+                    "participantFK": "5922",
+                    "n": "79",
+                    "ut": "2021-04-24T13:24:58+00:00",
+                    "rank": "7",
+                    "standing_data": [
+                        {
+                            "id": "132179723",
+                            "standing_type_paramFK": "1",
+                            "value": "0",
+                            "code": "points",
+                            "n": "23",
+                            "ut": "2021-04-21T18:52:58+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "132179724",
+                            "standing_type_paramFK": "2",
+                            "value": "0",
+                            "code": "goalsfor",
+                            "n": "27",
+                            "ut": "2021-04-21T18:52:58+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "132179725",
+                            "standing_type_paramFK": "3",
+                            "value": "0",
+                            "code": "goalsagainst",
+                            "n": "23",
+                            "ut": "2021-04-21T18:52:58+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "132179728",
+                            "standing_type_paramFK": "7",
+                            "value": "0",
+                            "code": "draws",
+                            "n": "8",
+                            "ut": "2021-04-16T20:54:54+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "132179729",
+                            "standing_type_paramFK": "9",
+                            "value": "0",
+                            "code": "played",
+                            "n": "33",
+                            "ut": "2021-04-21T18:52:58+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "132179730",
+                            "standing_type_paramFK": "10",
+                            "value": "0",
+                            "code": "wins",
+                            "n": "15",
+                            "ut": "2021-04-21T18:52:58+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "132179731",
+                            "standing_type_paramFK": "11",
+                            "value": "0",
+                            "code": "defeits",
+                            "n": "10",
+                            "ut": "2021-04-11T17:26:45+00:00",
+                            "sub_param": ""
+                        }
+                    ],
+                    "participant": {
+                        "id": "5922",
+                        "name": "Panamá",
+                        "gender": "male",
+                        "type": "team",
+                        "countryFK": "2",
+                        "n": "3",
+                        "ut": "2021-02-19T08:38:33+00:00",
+                        "country_name": "Panamá"
+                    }
+                },
+                "3808935": {
+                    "id": "3808935",
+                    "standingFK": "326381",
+                    "participantFK": "6713",
+                    "n": "56",
+                    "ut": "2021-04-23T20:52:54+00:00",
+                    "rank": "8",
+                    "standing_data": [
+                        {
+                            "id": "132181142",
+                            "standing_type_paramFK": "1",
+                            "value": "0",
+                            "code": "points",
+                            "n": "22",
+                            "ut": "2021-04-23T20:52:54+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "132181143",
+                            "standing_type_paramFK": "2",
+                            "value": "0",
+                            "code": "goalsfor",
+                            "n": "25",
+                            "ut": "2021-04-23T20:52:54+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "132181144",
+                            "standing_type_paramFK": "3",
+                            "value": "0",
+                            "code": "goalsagainst",
+                            "n": "23",
+                            "ut": "2021-04-16T20:54:55+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "132181147",
+                            "standing_type_paramFK": "7",
+                            "value": "0",
+                            "code": "draws",
+                            "n": "7",
+                            "ut": "2021-04-16T20:54:55+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "132181148",
+                            "standing_type_paramFK": "9",
+                            "value": "0",
+                            "code": "played",
+                            "n": "32",
+                            "ut": "2021-04-23T20:52:54+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "132181149",
+                            "standing_type_paramFK": "10",
+                            "value": "0",
+                            "code": "wins",
+                            "n": "15",
+                            "ut": "2021-04-23T20:52:54+00:00",
+                            "sub_param": ""
+                        },
+                        {
+                            "id": "132181150",
+                            "standing_type_paramFK": "11",
+                            "value": "0",
+                            "code": "defeits",
+                            "n": "10",
+                            "ut": "2021-03-13T19:22:27+00:00",
+                            "sub_param": ""
+                        }
+                    ],
+                    "participant": {
+                        "id": "6713",
+                        "name": "Estados Unidos",
+                        "gender": "male",
+                        "type": "team",
+                        "countryFK": "2",
+                        "n": "2",
+                        "ut": "2019-05-03T09:00:42+00:00",
+                        "country_name": "Estados Unidos"
+                    }
+                }
+            }
+        }
+    }
+}

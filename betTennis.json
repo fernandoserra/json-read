@@ -1,0 +1,3587 @@
+[
+    {
+        "local_team": {
+            "first_name": "Joao",
+            "last_name": "Domingues",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Domingues C-2020-02-21.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Domingues-2020-02-21.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Domingues-body-2020-02-22.png",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "joao-domingues-por"
+        },
+        "away_team": {
+            "first_name": "Nicolas",
+            "last_name": "Kicker",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "nicolas-kicker-arg"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "4",
+            "2"
+        ],
+        "scorer_b": [
+            "6",
+            "6"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "b",
+        "hidden": false,
+        "start_time": "2021-03-06T00:00:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Central",
+        "slug": "4-joao-domingues-por-vs-wc-nicolas-kicker-arg"
+    },
+    {
+        "local_team": {
+            "first_name": "Holger Vitus Nodskov",
+            "last_name": "Rune",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "holger-vitus-nodskov-rune-den"
+        },
+        "away_team": {
+            "first_name": "Renzo",
+            "last_name": "Olivo",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/placeholder-tennis-2020-02-23.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/profile_sin_foto-2021-03-02.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Olivo-2020-02-26.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "renzo-olivo-arg"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "4",
+            "6",
+            "6"
+        ],
+        "scorer_b": [
+            "6",
+            "3",
+            "4"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "a",
+        "hidden": false,
+        "start_time": "2021-03-08T14:00:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Central",
+        "slug": "wc-holger-vitus-nodskov-rune-den-vs-renzo-olivo-arg"
+    },
+    {
+        "local_team": {
+            "first_name": "Facundo",
+            "last_name": "Bagnis",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/placeholder-tennis-2020-02-23.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/profile_sin_foto-2021-03-02.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Bagnis-2020-02-27.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "facundo-bagnis-arg"
+        },
+        "away_team": {
+            "first_name": "Marco",
+            "last_name": "Cecchinato",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Circle Marco Cecchinato-2021-02-25.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Profile Marco Cecchinato-2021-02-25.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/body-cecchinato-2021-02-25.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "marco-cecchinato-ita"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "6",
+            "6",
+            "6"
+        ],
+        "scorer_b": [
+            "7",
+            "2",
+            "3"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "a",
+        "hidden": false,
+        "start_time": "2021-03-08T16:30:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Central",
+        "slug": "facundo-bagnis-arg-vs-marco-cecchinato-ita"
+    },
+    {
+        "local_team": {
+            "first_name": "Roberto",
+            "last_name": "Carballes Baena",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Circle Roberto Carballés Baena-2021-02-25.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Profile Roberto Carballés Baena-2021-02-25.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/body-carballes-2021-02-25.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "roberto-carballes-baena-esp"
+        },
+        "away_team": {
+            "first_name": "Salvatore",
+            "last_name": "Caruso",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Circle Salvatore Caruso-2021-02-25.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Profile Salvatore Caruso-2021-02-25.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/body-caruso-2021-02-25.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "salvatore-caruso-ita"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "6",
+            "7"
+        ],
+        "scorer_b": [
+            "4",
+            "6"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "a",
+        "hidden": false,
+        "start_time": "2021-03-08T00:00:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Central",
+        "slug": "roberto-carballes-baena-esp-vs-6-salvatore-caruso-ita"
+    },
+    {
+        "local_team": {
+            "first_name": "Gianluca",
+            "last_name": "Mager",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Circle Gianluca Mager-2021-02-25.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Profile Gianluca Mager-2021-02-25.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/body-mager-2021-02-25.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "gianluca-mager-ita"
+        },
+        "away_team": {
+            "first_name": "Federico",
+            "last_name": "Coria",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Circle Federico Coria-2021-02-25.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Profile Federico Coria-2021-02-25.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/body-coria-2021-02-25.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "federico-coria-arg"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "6",
+            "6",
+            "6"
+        ],
+        "scorer_b": [
+            "4",
+            "7",
+            "7"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "b",
+        "hidden": false,
+        "start_time": "2021-03-09T14:00:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Central",
+        "slug": "gianluca-mager-ita-vs-7-federico-coria-arg"
+    },
+    {
+        "local_team": {
+            "first_name": "Jozef",
+            "last_name": "Kovalik",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/placeholder-tennis-2020-02-23.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Kovalic-2020-02-22.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Kovalic-body-2020-02-22.png",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "jozef-kovalik-svk"
+        },
+        "away_team": {
+            "first_name": "Alejandro",
+            "last_name": "Tabilo",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Tabilo C ok-2020-02-12.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Tabilo-P ok-2020-02-12.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Tabilob-2020-02-12.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "alejandro-tabilo-chi"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "1",
+            "6",
+            "4"
+        ],
+        "scorer_b": [
+            "6",
+            "0",
+            "6"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "b",
+        "hidden": false,
+        "start_time": "2021-03-09T16:30:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Central",
+        "slug": "jozef-kovalik-svk-vs-q-alejandro-tabilo-chi"
+    },
+    {
+        "local_team": {
+            "first_name": "Holger Vitus Nodskov",
+            "last_name": "Rune",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "holger-vitus-nodskov-rune-den"
+        },
+        "away_team": {
+            "first_name": "Sebastian",
+            "last_name": "Baez",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "sebastian-baez-arg"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "6",
+            "6"
+        ],
+        "scorer_b": [
+            "3",
+            "2"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "a",
+        "hidden": false,
+        "start_time": "2021-03-09T00:00:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Central",
+        "slug": "q-holger-vitus-nodskov-rune-den-vs-q-sebastian-baez-arg"
+    },
+    {
+        "local_team": {
+            "first_name": "Gonzalo",
+            "last_name": "Lama",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "gonzalo-lama-chi"
+        },
+        "away_team": {
+            "first_name": "Juan Manuel",
+            "last_name": "Cerundolo",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "juan-manuel-cerundolo-arg"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "5",
+            "2"
+        ],
+        "scorer_b": [
+            "7",
+            "6"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "b",
+        "hidden": false,
+        "start_time": "2021-03-09T22:30:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Central",
+        "slug": "wc-gonzalo-lama-chi-vs-wc-juan-manuel-cerundolo-arg"
+    },
+    {
+        "local_team": {
+            "first_name": "Frances",
+            "last_name": "Tiafoe",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Circle Frances Tiafoe-2021-02-25.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Profile Frances Tiafoe-2021-02-25.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/body-tiafoe-2021-02-25.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "frances-tiafoe-usa"
+        },
+        "away_team": {
+            "first_name": "Facundo",
+            "last_name": "Bagnis",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/placeholder-tennis-2020-02-23.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/profile_sin_foto-2021-03-02.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Bagnis-2020-02-27.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "facundo-bagnis-arg"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "6",
+            "6"
+        ],
+        "scorer_b": [
+            "7",
+            "7"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "b",
+        "hidden": false,
+        "start_time": "2021-03-10T16:30:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Central",
+        "slug": "5-frances-tiafoe-usa-vs-facundo-bagnis-arg"
+    },
+    {
+        "local_team": {
+            "first_name": "Federico",
+            "last_name": "Delbonis",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Delbonis C ok-2020-02-12.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Delbonis P ok-2020-02-12.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/body-delbonis-2021-02-25.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "federico-delbonis-arg"
+        },
+        "away_team": {
+            "first_name": "Andrej",
+            "last_name": "Martin",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/placeholder-tennis-2020-02-23.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/profile_sin_foto-2021-03-02.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Andrej Martin-2020-02-26.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "andrej-martin-svk"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "6",
+            "6"
+        ],
+        "scorer_b": [
+            "0",
+            "3"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "a",
+        "hidden": false,
+        "start_time": "2021-03-10T00:00:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Central",
+        "slug": "8-federico-delbonis-arg-vs-andrej-martin-svk"
+    },
+    {
+        "local_team": {
+            "first_name": "Holger Vitus Nodskov",
+            "last_name": "Rune",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "holger-vitus-nodskov-rune-den"
+        },
+        "away_team": {
+            "first_name": "Benoit",
+            "last_name": "Paire",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Circle Benoit Paire-2021-02-25.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Profile Benoit Paire-2021-02-25.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/body-paire-2021-02-25.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "benoit-paire-fra"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "6",
+            "6"
+        ],
+        "scorer_b": [
+            "2",
+            "3"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "a",
+        "hidden": false,
+        "start_time": "2021-03-10T22:30:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Central",
+        "slug": "q-holger-vitus-nodskov-rune-den-vs-2-benoit-paire-fra"
+    },
+    {
+        "local_team": {
+            "first_name": "Pablo",
+            "last_name": "Andujar",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/circle Pablo Andujar-2021-02-25.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Profile Pablo Andujar-2021-02-25.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/body-andujar-2021-02-25.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "pablo-andujar-esp"
+        },
+        "away_team": {
+            "first_name": "Daniel Elahi",
+            "last_name": "Galan",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/placeholder-tenis-2021-2021-03-02.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/profile_sin_foto-2021-03-02.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://via.placeholder.com/375x346.png?text=daniel-elahi-galan-col",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "daniel-elahi-galan-col"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "1",
+            "6"
+        ],
+        "scorer_b": [
+            "6",
+            "7"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "b",
+        "hidden": false,
+        "start_time": "2021-03-11T14:00:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Central",
+        "slug": "3-pablo-andujar-esp-vs-daniel-elahi-galan-col"
+    },
+    {
+        "local_team": {
+            "first_name": "Juan Manuel",
+            "last_name": "Cerundolo",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "juan-manuel-cerundolo-arg"
+        },
+        "away_team": {
+            "first_name": "Roberto",
+            "last_name": "Carballes Baena",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Circle Roberto Carballés Baena-2021-02-25.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Profile Roberto Carballés Baena-2021-02-25.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/body-carballes-2021-02-25.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "roberto-carballes-baena-esp"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "2",
+            "0"
+        ],
+        "scorer_b": [
+            "6",
+            "6"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "b",
+        "hidden": false,
+        "start_time": "2021-03-11T16:30:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Central",
+        "slug": "wc-juan-manuel-cerundolo-arg-vs-roberto-carballes-baena-esp"
+    },
+    {
+        "local_team": {
+            "first_name": "Juan Pablo",
+            "last_name": "Varillas",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/placeholder-tennis-2020-02-23.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/placeholder-live-2020-02-23.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Foto app jugadores-2020-02-22.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "juan-pablo-varillas-per"
+        },
+        "away_team": {
+            "first_name": "Federico",
+            "last_name": "Coria",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Circle Federico Coria-2021-02-25.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Profile Federico Coria-2021-02-25.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/body-coria-2021-02-25.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "federico-coria-arg"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "6",
+            "7"
+        ],
+        "scorer_b": [
+            "4",
+            "6"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "a",
+        "hidden": false,
+        "start_time": "2021-03-11T16:00:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Central",
+        "slug": "q-juan-pablo-varillas-per-vs-7-federico-coria-arg"
+    },
+    {
+        "local_team": {
+            "first_name": "Cristian",
+            "last_name": "Garin",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Circle Cristian Garin-2021-02-25.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Profile Cristian Garin-2021-02-25.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/body-garin-2021-02-25.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "cristian-garin-chi"
+        },
+        "away_team": {
+            "first_name": "Alejandro",
+            "last_name": "Tabilo",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Tabilo C ok-2020-02-12.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Tabilo-P ok-2020-02-12.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Tabilob-2020-02-12.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "alejandro-tabilo-chi"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "6",
+            "6"
+        ],
+        "scorer_b": [
+            "2",
+            "2"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "a",
+        "hidden": false,
+        "start_time": "2021-03-11T22:30:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Central",
+        "slug": "1-cristian-garin-chi-vs-q-alejandro-tabilo-chi"
+    },
+    {
+        "local_team": {
+            "first_name": "Facundo",
+            "last_name": "Bagnis",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/placeholder-tennis-2020-02-23.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/profile_sin_foto-2021-03-02.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Bagnis-2020-02-27.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "facundo-bagnis-arg"
+        },
+        "away_team": {
+            "first_name": "Laslo",
+            "last_name": "Djere",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Djere-C-2020-01-13.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Djere-P-2020-02-12.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/body-djere-2021-02-25.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "laslo-djere-srb"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "4",
+            "6",
+            "6"
+        ],
+        "scorer_b": [
+            "6",
+            "3",
+            "3"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "a",
+        "hidden": false,
+        "start_time": "2021-03-12T14:00:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Central",
+        "slug": "facundo-bagnis-arg-vs-4-laslo-djere-srb"
+    },
+    {
+        "local_team": {
+            "first_name": "Federico",
+            "last_name": "Delbonis",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Delbonis C ok-2020-02-12.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Delbonis P ok-2020-02-12.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/body-delbonis-2021-02-25.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "federico-delbonis-arg"
+        },
+        "away_team": {
+            "first_name": "Holger Vitus Nodskov",
+            "last_name": "Rune",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "holger-vitus-nodskov-rune-den"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "6",
+            "6"
+        ],
+        "scorer_b": [
+            "3",
+            "3"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "a",
+        "hidden": false,
+        "start_time": "2021-03-12T16:30:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Central",
+        "slug": "8-federico-delbonis-arg-vs-q-holger-vitus-nodskov-rune-den"
+    },
+    {
+        "local_team": {
+            "first_name": "Cristian",
+            "last_name": "Garin",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Circle Cristian Garin-2021-02-25.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Profile Cristian Garin-2021-02-25.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/body-garin-2021-02-25.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "cristian-garin-chi"
+        },
+        "away_team": {
+            "first_name": "Juan Pablo",
+            "last_name": "Varillas",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/placeholder-tennis-2020-02-23.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/placeholder-live-2020-02-23.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Foto app jugadores-2020-02-22.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "juan-pablo-varillas-per"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "6",
+            "6"
+        ],
+        "scorer_b": [
+            "4",
+            "4"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "a",
+        "hidden": false,
+        "start_time": "2021-03-12T19:00:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Central",
+        "slug": "1-cristian-garin-chi-vs-q-juan-pablo-varillas-per"
+    },
+    {
+        "local_team": {
+            "first_name": "Daniel Elahi",
+            "last_name": "Galan",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/placeholder-tenis-2021-2021-03-02.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/profile_sin_foto-2021-03-02.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://via.placeholder.com/375x346.png?text=daniel-elahi-galan-col",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "daniel-elahi-galan-col"
+        },
+        "away_team": {
+            "first_name": "Roberto",
+            "last_name": "Carballes Baena",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Circle Roberto Carballés Baena-2021-02-25.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Profile Roberto Carballés Baena-2021-02-25.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/body-carballes-2021-02-25.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "roberto-carballes-baena-esp"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "7",
+            "6"
+        ],
+        "scorer_b": [
+            "6",
+            "3"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "a",
+        "hidden": false,
+        "start_time": "2021-03-12T21:00:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Central",
+        "slug": "daniel-elahi-galan-col-vs-roberto-carballes-baena-esp"
+    },
+    {
+        "local_team": {
+            "first_name": "Facundo",
+            "last_name": "Bagnis",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/placeholder-tennis-2020-02-23.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/profile_sin_foto-2021-03-02.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Bagnis-2020-02-27.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "facundo-bagnis-arg"
+        },
+        "away_team": {
+            "first_name": "Federico",
+            "last_name": "Delbonis",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Delbonis C ok-2020-02-12.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Delbonis P ok-2020-02-12.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/body-delbonis-2021-02-25.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "federico-delbonis-arg"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "7",
+            "6"
+        ],
+        "scorer_b": [
+            "5",
+            "3"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "a",
+        "hidden": false,
+        "start_time": "2021-03-13T20:00:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Central",
+        "slug": "facundo-bagnis-arg-vs-8-federico-delbonis-arg"
+    },
+    {
+        "local_team": {
+            "first_name": "Cristian",
+            "last_name": "Garin",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Circle Cristian Garin-2021-02-25.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Profile Cristian Garin-2021-02-25.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/body-garin-2021-02-25.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "cristian-garin-chi"
+        },
+        "away_team": {
+            "first_name": "Daniel Elahi",
+            "last_name": "Galan",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/placeholder-tenis-2021-2021-03-02.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/profile_sin_foto-2021-03-02.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://via.placeholder.com/375x346.png?text=daniel-elahi-galan-col",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "daniel-elahi-galan-col"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "6",
+            "6"
+        ],
+        "scorer_b": [
+            "4",
+            "3"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "a",
+        "hidden": false,
+        "start_time": "2021-03-13T22:00:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Central",
+        "slug": "1-cristian-garin-chi-vs-daniel-elahi-galan-col"
+    },
+    {
+        "local_team": {
+            "first_name": "Pedro",
+            "last_name": "Sousa",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Sousa C-2020-02-21.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Sousa-2020-02-21.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Sousa-body-2020-02-22.png",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "pedro-sousa-por"
+        },
+        "away_team": {
+            "first_name": "Laslo",
+            "last_name": "Djere",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Djere-C-2020-01-13.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Djere-P-2020-02-12.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/body-djere-2021-02-25.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "laslo-djere-srb"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "7",
+            "5",
+            "3",
+            "2",
+            "2"
+        ],
+        "scorer_b": [
+            "5",
+            "7",
+            "6",
+            "6",
+            "6"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "b",
+        "hidden": false,
+        "start_time": "2021-03-10T14:00:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Central",
+        "slug": "pedro-sousa-por-vs-4-laslo-djere-srb"
+    },
+    {
+        "local_team": {
+            "first_name": "Holger Vitus Nodskov",
+            "last_name": "Rune",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "holger-vitus-nodskov-rune-den"
+        },
+        "away_team": {
+            "first_name": "Goncalo",
+            "last_name": "Oliveira",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "goncalo-oliveira-por"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "7",
+            "2",
+            "6"
+        ],
+        "scorer_b": [
+            "6",
+            "6",
+            "2"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "a",
+        "hidden": false,
+        "start_time": "2021-03-06T00:00:00Z",
+        "user_bet": {
+            "bet_choice": "local",
+            "bet_result": "win",
+            "points": 3,
+            "created_at": "2022-01-12T20:51:37.617977Z"
+        },
+        "state": "finished",
+        "stadium": "Central",
+        "slug": "wc-holger-vitus-nodskov-rune-den-vs-goncalo-oliveira-por"
+    },
+    {
+        "local_team": {
+            "first_name": "Agustin",
+            "last_name": "Velotti",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "agustin-velotti-arg"
+        },
+        "away_team": {
+            "first_name": "Daniel Antonio",
+            "last_name": "Nunez",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "daniel-antonio-nunez-chi"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "6",
+            "6"
+        ],
+        "scorer_b": [
+            "4",
+            "3"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "a",
+        "hidden": false,
+        "start_time": "2021-03-06T00:00:00Z",
+        "user_bet": {
+            "bet_choice": "away",
+            "bet_result": "lose",
+            "points": 0,
+            "created_at": "2022-01-12T20:51:37.622591Z"
+        },
+        "state": "finished",
+        "stadium": "Central",
+        "slug": "alt-agustin-velotti-arg-vs-wc-daniel-antonio-nunez-chi"
+    },
+    {
+        "local_team": {
+            "first_name": "Nicolas",
+            "last_name": "Kicker",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "nicolas-kicker-arg"
+        },
+        "away_team": {
+            "first_name": "Thomaz",
+            "last_name": "Bellucci",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "thomaz-bellucci-bra"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "6",
+            "6"
+        ],
+        "scorer_b": [
+            "0",
+            "4"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "a",
+        "hidden": false,
+        "start_time": "2021-03-06T21:00:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Central",
+        "slug": "wc-nicolas-kicker-arg-vs-thomaz-bellucci-bra"
+    },
+    {
+        "local_team": {
+            "first_name": "Emilio",
+            "last_name": "Gomez",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "emilio-gomez-ecu"
+        },
+        "away_team": {
+            "first_name": "Holger Vitus Nodskov",
+            "last_name": "Rune",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "holger-vitus-nodskov-rune-den"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "3",
+            "6",
+            "1"
+        ],
+        "scorer_b": [
+            "6",
+            "4",
+            "6"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "b",
+        "hidden": false,
+        "start_time": "2021-03-07T14:00:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Central",
+        "slug": "3-emilio-gomez-ecu-vs-wc-holger-vitus-nodskov-rune-den"
+    },
+    {
+        "local_team": {
+            "first_name": "Alejandro",
+            "last_name": "Tabilo",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Tabilo C ok-2020-02-12.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Tabilo-P ok-2020-02-12.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Tabilob-2020-02-12.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "alejandro-tabilo-chi"
+        },
+        "away_team": {
+            "first_name": "Nicolas",
+            "last_name": "Alvarez",
+            "image_circle": {
+                "url": "https://via.placeholder.com/90x90.png?text=nicolas-alvarez-per",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://via.placeholder.com/466x626.png?text=nicolas-alvarez-per",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://via.placeholder.com/375x346.png?text=nicolas-alvarez-per",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "nicolas-alvarez-per"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "6",
+            "6"
+        ],
+        "scorer_b": [
+            "4",
+            "3"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "a",
+        "hidden": false,
+        "start_time": "2021-03-06T13:00:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Court 1",
+        "slug": "1-alejandro-tabilo-chi-vs-nicolas-alvarez-per"
+    },
+    {
+        "local_team": {
+            "first_name": "Marcelo Tomas",
+            "last_name": "Barrios Vera",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "marcelo-tomas-barrios-vera-chi"
+        },
+        "away_team": {
+            "first_name": "Tomas Martin",
+            "last_name": "Etcheverry",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "tomas-martin-etcheverry-arg"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "4",
+            "6",
+            "4"
+        ],
+        "scorer_b": [
+            "6",
+            "2",
+            "6"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "b",
+        "hidden": false,
+        "start_time": "2021-03-06T00:00:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Court 1",
+        "slug": "marcelo-tomas-barrios-vera-chi-vs-8-tomas-martin-etcheverry-arg"
+    },
+    {
+        "local_team": {
+            "first_name": "Elliot",
+            "last_name": "Benchetrit",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "elliot-benchetrit-mar"
+        },
+        "away_team": {
+            "first_name": "Thomaz",
+            "last_name": "Bellucci",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "thomaz-bellucci-bra"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "2",
+            "2"
+        ],
+        "scorer_b": [
+            "6",
+            "6"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "b",
+        "hidden": false,
+        "start_time": "2021-03-06T00:00:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Court 1",
+        "slug": "elliot-benchetrit-mar-vs-thomaz-bellucci-bra"
+    },
+    {
+        "local_team": {
+            "first_name": "Hernan",
+            "last_name": "Casanova",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "hernan-casanova-arg"
+        },
+        "away_team": {
+            "first_name": "Andrea",
+            "last_name": "Collarini",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/placeholder-tennis-2020-02-23.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/profile_sin_foto-2021-03-02.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Collarini (1)-2020-02-27.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "andrea-collarini-arg"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "4",
+            "6",
+            "6"
+        ],
+        "scorer_b": [
+            "6",
+            "3",
+            "2"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "a",
+        "hidden": false,
+        "start_time": "2021-03-06T00:00:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Court 1",
+        "slug": "hernan-casanova-arg-vs-7-andrea-collarini-arg"
+    },
+    {
+        "local_team": {
+            "first_name": "Alejandro",
+            "last_name": "Tabilo",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Tabilo C ok-2020-02-12.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Tabilo-P ok-2020-02-12.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Tabilob-2020-02-12.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "alejandro-tabilo-chi"
+        },
+        "away_team": {
+            "first_name": "Agustin",
+            "last_name": "Velotti",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "agustin-velotti-arg"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "7",
+            "6"
+        ],
+        "scorer_b": [
+            "6",
+            "1"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "a",
+        "hidden": false,
+        "start_time": "2021-03-08T14:00:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Court 1",
+        "slug": "1-alejandro-tabilo-chi-vs-alt-agustin-velotti-arg"
+    },
+    {
+        "local_team": {
+            "first_name": "Pedro",
+            "last_name": "Sousa",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Sousa C-2020-02-21.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Sousa-2020-02-21.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Sousa-body-2020-02-22.png",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "pedro-sousa-por"
+        },
+        "away_team": {
+            "first_name": "Leonardo",
+            "last_name": "Mayer",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Mayer C-2020-02-21.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Mayer-2020-02-21.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Mayer-body-2020-02-22.png",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "leonardo-mayer-arg"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "6",
+            "6"
+        ],
+        "scorer_b": [
+            "2",
+            "4"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "a",
+        "hidden": false,
+        "start_time": "2021-03-08T15:30:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Court 1",
+        "slug": "pedro-sousa-por-vs-leonardo-mayer-arg"
+    },
+    {
+        "local_team": {
+            "first_name": "Daniel Elahi",
+            "last_name": "Galan",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/placeholder-tenis-2021-2021-03-02.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/profile_sin_foto-2021-03-02.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://via.placeholder.com/375x346.png?text=daniel-elahi-galan-col",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "daniel-elahi-galan-col"
+        },
+        "away_team": {
+            "first_name": "Daniel",
+            "last_name": "Altmaier",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "daniel-altmaier-ger"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "7",
+            "3",
+            "7"
+        ],
+        "scorer_b": [
+            "6",
+            "6",
+            "5"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "a",
+        "hidden": false,
+        "start_time": "2021-03-08T00:00:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Court 1",
+        "slug": "daniel-elahi-galan-col-vs-daniel-altmaier-ger"
+    },
+    {
+        "local_team": {
+            "first_name": "Federico",
+            "last_name": "Delbonis",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Delbonis C ok-2020-02-12.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Delbonis P ok-2020-02-12.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/body-delbonis-2021-02-25.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "federico-delbonis-arg"
+        },
+        "away_team": {
+            "first_name": "Jaume",
+            "last_name": "Munar",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Munar-C-2020-01-14.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Munar-P-2020-02-12.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Munarb-2020-02-12.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "jaume-munar-esp"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "6",
+            "6",
+            "6"
+        ],
+        "scorer_b": [
+            "4",
+            "7",
+            "4"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "a",
+        "hidden": false,
+        "start_time": "2021-03-09T15:00:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Court 1",
+        "slug": "8-federico-delbonis-arg-vs-jaume-munar-esp"
+    },
+    {
+        "local_team": {
+            "first_name": "Joao",
+            "last_name": "Sousa",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Circle Joao Sousa-2021-02-25.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Profile Joao Sousa-2021-02-25.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/body-sousa-2021-02-25.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "joao-sousa-por"
+        },
+        "away_team": {
+            "first_name": "Juan Pablo",
+            "last_name": "Varillas",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/placeholder-tennis-2020-02-23.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/placeholder-live-2020-02-23.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Foto app jugadores-2020-02-22.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "juan-pablo-varillas-per"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "4",
+            "1"
+        ],
+        "scorer_b": [
+            "6",
+            "6"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "b",
+        "hidden": false,
+        "start_time": "2021-03-09T00:00:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Court 1",
+        "slug": "joao-sousa-por-vs-q-juan-pablo-varillas-per"
+    },
+    {
+        "local_team": {
+            "first_name": "Francisco",
+            "last_name": "Cerundolo",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/placeholder-tenis-2021-2021-03-02.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/profile_sin_foto-2021-03-02.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://via.placeholder.com/375x346.png?text=francisco-cerundolo-arg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "francisco-cerundolo-arg"
+        },
+        "away_team": {
+            "first_name": "Andrej",
+            "last_name": "Martin",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/placeholder-tennis-2020-02-23.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/profile_sin_foto-2021-03-02.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Andrej Martin-2020-02-26.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "andrej-martin-svk"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "1",
+            "2"
+        ],
+        "scorer_b": [
+            "6",
+            "6"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "b",
+        "hidden": false,
+        "start_time": "2021-03-09T00:00:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Court 1",
+        "slug": "se-francisco-cerundolo-arg-vs-andrej-martin-svk"
+    },
+    {
+        "local_team": {
+            "first_name": "Cristian",
+            "last_name": "Garin",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Circle Cristian Garin-2021-02-25.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Profile Cristian Garin-2021-02-25.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/body-garin-2021-02-25.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "cristian-garin-chi"
+        },
+        "away_team": {
+            "first_name": "Facundo",
+            "last_name": "Bagnis",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/placeholder-tennis-2020-02-23.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/profile_sin_foto-2021-03-02.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Bagnis-2020-02-27.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "facundo-bagnis-arg"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "6",
+            "6",
+            "7"
+        ],
+        "scorer_b": [
+            "4",
+            "7",
+            "5"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "a",
+        "hidden": false,
+        "start_time": "2021-03-14T19:00:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Central",
+        "slug": "1-cristian-garin-chi-vs-facundo-bagnis-arg"
+    },
+    {
+        "local_team": {
+            "first_name": "Renzo",
+            "last_name": "Olivo",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/placeholder-tennis-2020-02-23.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/profile_sin_foto-2021-03-02.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Olivo-2020-02-26.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "renzo-olivo-arg"
+        },
+        "away_team": {
+            "first_name": "Hernan",
+            "last_name": "Casanova",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "hernan-casanova-arg"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "6",
+            "6",
+            "6"
+        ],
+        "scorer_b": [
+            "7",
+            "2",
+            "3"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "a",
+        "hidden": false,
+        "start_time": "2021-03-07T00:00:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Court 1",
+        "slug": "renzo-olivo-arg-vs-hernan-casanova-arg"
+    },
+    {
+        "local_team": {
+            "first_name": "Alejandro",
+            "last_name": "Tabilo",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Tabilo C ok-2020-02-12.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Tabilo-P ok-2020-02-12.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Tabilob-2020-02-12.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "alejandro-tabilo-chi"
+        },
+        "away_team": {
+            "first_name": "Pedro",
+            "last_name": "Sakamoto",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/placeholder-tennis-2020-02-23.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/placeholder-live-2020-02-23.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://via.placeholder.com/375x346.png?text=pedro-sakamoto-bra",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "pedro-sakamoto-bra"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "7",
+            "6"
+        ],
+        "scorer_b": [
+            "6",
+            "4"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "a",
+        "hidden": false,
+        "start_time": "2021-03-07T14:00:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Court 1",
+        "slug": "1-alejandro-tabilo-chi-vs-pedro-sakamoto-bra"
+    },
+    {
+        "local_team": {
+            "first_name": "Rafael",
+            "last_name": "Matos",
+            "image_circle": {
+                "url": "https://via.placeholder.com/90x90.png?text=rafael-matos-bra",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://via.placeholder.com/466x626.png?text=rafael-matos-bra",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://via.placeholder.com/375x346.png?text=rafael-matos-bra",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "rafael-matos-bra"
+        },
+        "away_team": {
+            "first_name": "Pedro",
+            "last_name": "Sakamoto",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/placeholder-tennis-2020-02-23.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/placeholder-live-2020-02-23.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://via.placeholder.com/375x346.png?text=pedro-sakamoto-bra",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "pedro-sakamoto-bra"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "3",
+            "1"
+        ],
+        "scorer_b": [
+            "6",
+            "6"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "b",
+        "hidden": false,
+        "start_time": "2021-03-06T13:00:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Court 2",
+        "slug": "alt-rafael-matos-bra-vs-pedro-sakamoto-bra"
+    },
+    {
+        "local_team": {
+            "first_name": "Michel",
+            "last_name": "Vernier",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "michel-vernier-chi"
+        },
+        "away_team": {
+            "first_name": "Joao",
+            "last_name": "Menezes",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "joao-menezes-bra"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "2",
+            "3"
+        ],
+        "scorer_b": [
+            "6",
+            "6"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "b",
+        "hidden": false,
+        "start_time": "2021-03-06T00:00:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Court 2",
+        "slug": "wc-michel-vernier-chi-vs-6-joao-menezes-bra"
+    },
+    {
+        "local_team": {
+            "first_name": "Sebastian",
+            "last_name": "Baez",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "sebastian-baez-arg"
+        },
+        "away_team": {
+            "first_name": "Orlando",
+            "last_name": "Luz",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/placeholder-tennis-2020-02-23.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/placeholder-live-2020-02-23.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Luz (1)-2020-02-27.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "orlando-luz-bra"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "6",
+            "6",
+            "6"
+        ],
+        "scorer_b": [
+            "2",
+            "7",
+            "2"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "a",
+        "hidden": false,
+        "start_time": "2021-03-06T00:00:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Court 2",
+        "slug": "sebastian-baez-arg-vs-orlando-luz-bra"
+    },
+    {
+        "local_team": {
+            "first_name": "Guilherme",
+            "last_name": "Clezar",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "guilherme-clezar-bra"
+        },
+        "away_team": {
+            "first_name": "Felipe",
+            "last_name": "Meligeni Rodrigues Alves",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "felipe-meligeni-rodrigues-alves-bra"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "4",
+            "2"
+        ],
+        "scorer_b": [
+            "6",
+            "6"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "b",
+        "hidden": false,
+        "start_time": "2021-03-06T00:00:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Court 2",
+        "slug": "guilherme-clezar-bra-vs-felipe-meligeni-rodrigues-alves-bra"
+    },
+    {
+        "local_team": {
+            "first_name": "Lukas",
+            "last_name": "Klein",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "lukas-klein-svk"
+        },
+        "away_team": {
+            "first_name": "Mario",
+            "last_name": "Vilella Martinez",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "mario-vilella-martinez-esp"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "4",
+            "2"
+        ],
+        "scorer_b": [
+            "6",
+            "6"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "b",
+        "hidden": false,
+        "start_time": "2021-03-06T00:00:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Court 2",
+        "slug": "lukas-klein-svk-vs-5-mario-vilella-martinez-esp"
+    },
+    {
+        "local_team": {
+            "first_name": "Nicolas",
+            "last_name": "Kicker",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "nicolas-kicker-arg"
+        },
+        "away_team": {
+            "first_name": "Sebastian",
+            "last_name": "Baez",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "sebastian-baez-arg"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "6",
+            "4",
+            "1"
+        ],
+        "scorer_b": [
+            "3",
+            "6",
+            "6"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "b",
+        "hidden": false,
+        "start_time": "2021-03-08T14:00:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Court 2",
+        "slug": "wc-nicolas-kicker-arg-vs-sebastian-baez-arg"
+    },
+    {
+        "local_team": {
+            "first_name": "Juan Pablo",
+            "last_name": "Varillas",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/placeholder-tennis-2020-02-23.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/placeholder-live-2020-02-23.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Foto app jugadores-2020-02-22.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "juan-pablo-varillas-per"
+        },
+        "away_team": {
+            "first_name": "Felipe",
+            "last_name": "Meligeni Rodrigues Alves",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "felipe-meligeni-rodrigues-alves-bra"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "6",
+            "6"
+        ],
+        "scorer_b": [
+            "4",
+            "1"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "a",
+        "hidden": false,
+        "start_time": "2021-03-08T00:00:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Court 2",
+        "slug": "2-juan-pablo-varillas-per-vs-felipe-meligeni-rodrigues-alves-bra"
+    },
+    {
+        "local_team": {
+            "first_name": "Agustin",
+            "last_name": "Velotti",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "agustin-velotti-arg"
+        },
+        "away_team": {
+            "first_name": "Tomas Martin",
+            "last_name": "Etcheverry",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "tomas-martin-etcheverry-arg"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "7",
+            "4",
+            "6"
+        ],
+        "scorer_b": [
+            "5",
+            "6",
+            "3"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "a",
+        "hidden": false,
+        "start_time": "2021-03-07T00:00:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Court 2",
+        "slug": "alt-agustin-velotti-arg-vs-8-tomas-martin-etcheverry-arg"
+    },
+    {
+        "local_team": {
+            "first_name": "Juan Pablo",
+            "last_name": "Varillas",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/placeholder-tennis-2020-02-23.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/placeholder-live-2020-02-23.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Foto app jugadores-2020-02-22.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "juan-pablo-varillas-per"
+        },
+        "away_team": {
+            "first_name": "Geoffrey",
+            "last_name": "Blancaneaux",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "geoffrey-blancaneaux-fra"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "6",
+            "6"
+        ],
+        "scorer_b": [
+            "2",
+            "2"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "a",
+        "hidden": false,
+        "start_time": "2021-03-07T14:00:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Court 2",
+        "slug": "2-juan-pablo-varillas-per-vs-geoffrey-blancaneaux-fra"
+    },
+    {
+        "local_team": {
+            "first_name": "Felipe",
+            "last_name": "Meligeni Rodrigues Alves",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "felipe-meligeni-rodrigues-alves-bra"
+        },
+        "away_team": {
+            "first_name": "Mario",
+            "last_name": "Vilella Martinez",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "mario-vilella-martinez-esp"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "3",
+            "7",
+            "7"
+        ],
+        "scorer_b": [
+            "6",
+            "6",
+            "6"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "a",
+        "hidden": false,
+        "start_time": "2021-03-07T00:00:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Court 2",
+        "slug": "felipe-meligeni-rodrigues-alves-bra-vs-5-mario-vilella-martinez-esp"
+    },
+    {
+        "local_team": {
+            "first_name": "Juan Pablo",
+            "last_name": "Varillas",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/placeholder-tennis-2020-02-23.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/placeholder-live-2020-02-23.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Foto app jugadores-2020-02-22.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "juan-pablo-varillas-per"
+        },
+        "away_team": {
+            "first_name": "Christian",
+            "last_name": "Lindell",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "christian-lindell-swe"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "4",
+            "7",
+            "7"
+        ],
+        "scorer_b": [
+            "6",
+            "5",
+            "6"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "a",
+        "hidden": false,
+        "start_time": "2021-03-06T13:00:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Court 3",
+        "slug": "2-juan-pablo-varillas-per-vs-christian-lindell-swe"
+    },
+    {
+        "local_team": {
+            "first_name": "Camilo",
+            "last_name": "Ugo Carabelli",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "camilo-ugo-carabelli-arg"
+        },
+        "away_team": {
+            "first_name": "Geoffrey",
+            "last_name": "Blancaneaux",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "geoffrey-blancaneaux-fra"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "6",
+            "2",
+            "2"
+        ],
+        "scorer_b": [
+            "3",
+            "6",
+            "6"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "b",
+        "hidden": false,
+        "start_time": "2021-03-06T00:00:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Court 3",
+        "slug": "camilo-ugo-carabelli-arg-vs-geoffrey-blancaneaux-fra"
+    },
+    {
+        "local_team": {
+            "first_name": "Carlos",
+            "last_name": "Gomez-Herrera",
+            "image_circle": {
+                "url": "https://via.placeholder.com/90x90.png?text=carlos-gomez-herrera-esp",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://via.placeholder.com/466x626.png?text=carlos-gomez-herrera-esp",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://via.placeholder.com/375x346.png?text=carlos-gomez-herrera-esp",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "carlos-gomez-herrera-esp"
+        },
+        "away_team": {
+            "first_name": "Renzo",
+            "last_name": "Olivo",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/placeholder-tennis-2020-02-23.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/profile_sin_foto-2021-03-02.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Olivo-2020-02-26.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "renzo-olivo-arg"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "6",
+            "4",
+            "4"
+        ],
+        "scorer_b": [
+            "2",
+            "6",
+            "6"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "b",
+        "hidden": false,
+        "start_time": "2021-03-06T00:00:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Court 3",
+        "slug": "carlos-gomez-herrera-esp-vs-renzo-olivo-arg"
+    },
+    {
+        "local_team": {
+            "first_name": "Emilio",
+            "last_name": "Gomez",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "emilio-gomez-ecu"
+        },
+        "away_team": {
+            "first_name": "Facundo",
+            "last_name": "Mena",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/placeholder-tennis-2020-02-23.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/profile_sin_foto-2021-03-02.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Foto app jugadores-2020-02-22.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "facundo-mena-arg"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "6",
+            "6"
+        ],
+        "scorer_b": [
+            "2",
+            "3"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "a",
+        "hidden": false,
+        "start_time": "2021-03-06T13:00:00Z",
+        "user_bet": {
+            "bet_choice": "away",
+            "bet_result": "lose",
+            "points": 0,
+            "created_at": "2022-01-12T20:51:37.612608Z"
+        },
+        "state": "finished",
+        "stadium": "Central",
+        "slug": "3-emilio-gomez-ecu-vs-facundo-mena-arg"
+    },
+    {
+        "local_team": {
+            "first_name": "Frances",
+            "last_name": "Tiafoe",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Circle Frances Tiafoe-2021-02-25.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Profile Frances Tiafoe-2021-02-25.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/body-tiafoe-2021-02-25.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "frances-tiafoe-usa"
+        },
+        "away_team": {
+            "first_name": "Nicolas",
+            "last_name": "Jarry",
+            "image_circle": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Circle Nicolas Jarry-2021-02-25.png",
+                "width": 90,
+                "height": 90
+            },
+            "image_profile": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/Profile Nicolas Jarry-2021-02-25.png",
+                "width": 466,
+                "height": 626
+            },
+            "image_body": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/body-jarry-2021-02-25.jpg",
+                "width": 375,
+                "height": 346
+            },
+            "slug": "nicolas-jarry-chi"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "7",
+            "6",
+            "7"
+        ],
+        "scorer_b": [
+            "6",
+            "7",
+            "6"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "a",
+        "hidden": false,
+        "start_time": "2021-03-08T22:30:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Central",
+        "slug": "5-frances-tiafoe-usa-vs-wc-nicolas-jarry-chi"
+    },
+    {
+        "local_team": {
+            "first_name": "Sebastian",
+            "last_name": "Baez",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "sebastian-baez-arg"
+        },
+        "away_team": {
+            "first_name": "Joao",
+            "last_name": "Menezes",
+            "image_circle": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_profile": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "image_body": {
+                "url": null,
+                "width": null,
+                "height": null
+            },
+            "slug": "joao-menezes-bra"
+        },
+        "competition": {
+            "name": "Chile Dove Men+Care Open",
+            "slug": "open-santiago-2021",
+            "gender": "male"
+        },
+        "scorer_a": [
+            "7",
+            "2",
+            "6"
+        ],
+        "scorer_b": [
+            "6",
+            "6",
+            "2"
+        ],
+        "mode": "singles",
+        "gender": "male",
+        "team_winner": "a",
+        "hidden": false,
+        "start_time": "2021-03-07T00:00:00Z",
+        "user_bet": null,
+        "state": "finished",
+        "stadium": "Court 1",
+        "slug": "sebastian-baez-arg-vs-6-joao-menezes-bra"
+    }
+]

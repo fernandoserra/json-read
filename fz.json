@@ -1,0 +1,166 @@
+{
+    "rows_per_page": 30,
+    "total": 3,
+    "num_pages": 1,
+    "page": 1,
+    "has_next": false,
+    "has_previous": false,
+    "items": [
+        {
+            "id": "62924eee-9ded-4ce2-b19b-ea7abb1884d4",
+            "slug": "trivia2021-02-19t13-26",
+            "image_url": "https://s3.amazonaws.com/funx-futbol/dashboard/btn-trivia-2021-02-19.png",
+            "image": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/btn-trivia-2021-02-19.png",
+                "width": 650,
+                "height": 250
+            },
+            "tags": null,
+            "category": {
+                "id": null,
+                "title": null,
+                "slug": null
+            },
+            "images": {
+                "news": {
+                    "url": "https://s3.amazonaws.com/funx-futbol/dashboard/btn-trivia-2021-02-19.png",
+                    "width": 650,
+                    "height": 250
+                },
+                "highlight": null,
+                "gradient": null,
+                "detail": null,
+                "portrait": null
+            },
+            "title": "TRIVIA",
+            "type": "fan-zone",
+            "text": "",
+            "is_gallery": false,
+            "gallery": [],
+            "is_web": true,
+            "is_app": true,
+            "meta": {
+                "screen": "trivia"
+            },
+            "video_url": "",
+            "created_at": "2021-02-19T13:26:00Z"
+        },
+        {
+            "id": "58e0f27d-9893-4735-a279-38fde0ebf5ca",
+            "slug": "wallpapers2021-02-19t13-32",
+            "image_url": "https://s3.amazonaws.com/funx-futbol/dashboard/btn-wallpapers-2021-02-19.png",
+            "image": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/btn-wallpapers-2021-02-19.png",
+                "width": 650,
+                "height": 250
+            },
+            "tags": null,
+            "category": {
+                "id": null,
+                "title": null,
+                "slug": null
+            },
+            "images": {
+                "news": {
+                    "url": "https://s3.amazonaws.com/funx-futbol/dashboard/btn-wallpapers-2021-02-19.png",
+                    "width": 650,
+                    "height": 250
+                },
+                "highlight": null,
+                "gradient": null,
+                "detail": null,
+                "portrait": null
+            },
+            "title": "WALLPAPERS",
+            "type": "fan-zone",
+            "text": "",
+            "is_gallery": false,
+            "gallery": [],
+            "is_web": true,
+            "is_app": true,
+            "meta": {
+                "screen": "wallpapers"
+            },
+            "video_url": "",
+            "created_at": "2021-02-19T13:32:00Z"
+        },
+        {
+            "id": "4e0b203f-e690-472a-a689-d7aa517f1525",
+            "slug": "apoya-desde-tu-casa",
+            "image_url": "https://s3.amazonaws.com/funx-futbol/dashboard/btn-apoya-2021-02-19.png",
+            "image": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/btn-apoya-2021-02-19.png",
+                "width": 650,
+                "height": 250
+            },
+            "tags": null,
+            "category": {
+                "id": null,
+                "title": null,
+                "slug": null
+            },
+            "images": {
+                "news": {
+                    "url": "https://s3.amazonaws.com/funx-futbol/dashboard/btn-apoya-2021-02-19.png",
+                    "width": 650,
+                    "height": 250
+                },
+                "highlight": null,
+                "gradient": null,
+                "detail": null,
+                "portrait": null
+            },
+            "title": "APOYA DESDE TU CASA",
+            "type": "fan-zone",
+            "text": "",
+            "is_gallery": false,
+            "gallery": [],
+            "is_web": true,
+            "is_app": true,
+            "meta": {
+                "screen": "dragImage"
+            },
+            "video_url": "",
+            "created_at": "2021-02-19T13:32:00Z"
+        },
+        {
+            "id": "4e0b203f-e690-472a-a689-d7aa517f1525",
+            "slug": "bet-chile-open",
+            "image_url": "https://s3.amazonaws.com/funx-futbol/dashboard/btn-apoya-2021-02-19.png",
+            "image": {
+                "url": "https://s3.amazonaws.com/funx-futbol/dashboard/btn-apoya-2021-02-19.png",
+                "width": 650,
+                "height": 250
+            },
+            "tags": null,
+            "category": {
+                "id": null,
+                "title": null,
+                "slug": null
+            },
+            "images": {
+                "news": {
+                    "url": "https://s3.amazonaws.com/funx-futbol/dashboard/btn-apoya-2021-02-19.png",
+                    "width": 650,
+                    "height": 250
+                },
+                "highlight": null,
+                "gradient": null,
+                "detail": null,
+                "portrait": null
+            },
+            "title": "Bet",
+            "type": "fan-zone",
+            "text": "",
+            "is_gallery": false,
+            "gallery": [],
+            "is_web": true,
+            "is_app": true,
+            "meta": {
+                "screen": "bet"
+            },
+            "video_url": "",
+            "created_at": "2021-02-19T13:32:00Z"
+        }
+    ]
+}

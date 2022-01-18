@@ -45,19 +45,13 @@
             "slug": "open-santiago-2021",
             "gender": "male"
         },
-        "scorer_a": [
-            "4",
-            "2"
-        ],
-        "scorer_b": [
-            "6",
-            "6"
-        ],
+        "scorer_a": [],
+        "scorer_b": [],
         "mode": "singles",
         "gender": "male",
-        "team_winner": "b",
+        "team_winner": "",
         "hidden": false,
-        "start_time": "2021-03-06T00:00:00Z",
+        "start_time": "2021-01-19T00:00:00Z",
         "user_bet": null,
         "state": "prematch",
         "stadium": "Central",

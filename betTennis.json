@@ -51,7 +51,7 @@
         "gender": "male",
         "team_winner": "",
         "hidden": false,
-        "start_time": "2021-01-19T14:00:00Z",
+        "start_time": "2021-01-18T15:25:00Z",
         "user_bet": null,
         "state": "prematch",
         "stadium": "Central",
@@ -103,21 +103,13 @@
             "slug": "open-santiago-2021",
             "gender": "male"
         },
-        "scorer_a": [
-            "4",
-            "6",
-            "6"
-        ],
-        "scorer_b": [
-            "6",
-            "3",
-            "4"
-        ],
+        "scorer_a": [],
+        "scorer_b": [],
         "mode": "singles",
         "gender": "male",
-        "team_winner": "a",
+        "team_winner": "",
         "hidden": false,
-        "start_time": "2021-03-08T14:00:00Z",
+        "start_time": "2021-01-18T18:30:00Z",
         "user_bet": null,
         "state": "finished",
         "stadium": "Central",

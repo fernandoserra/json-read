@@ -1,0 +1,151 @@
+{
+    "top_text": "\u00a1La Trivia de La Demo!",
+    "skip_welcome": false,
+    "welcome": {
+        "text": "",
+        "image": null,
+        "nav": "",
+        "button_text": "",
+        "title": ""
+    },
+    "empty_text": "",
+    "colors": {
+        "background_content": "255-255-255-0",
+        "option_textcolor": "255-255-255-1",
+        "background_all": "255-255-255-0",
+        "option_background": "33-54-123-1",
+        "option_background_correct": "65-173-73-1",
+        "top_text_background": "195-38-31-1",
+        "top_text_color": "255-255-255-1",
+        "option_textcolor_error": "255-255-255-1",
+        "option_background_error": "255-0-0-1",
+        "option_textcolor_correct": "255-255-255-1",
+        "question_textcolor": "33-54-123-1",
+        "empty_text_color": "11-81-141-1"
+    },
+    "questions": [
+        {
+            "correct_message": "Ya veremos",
+            "alert_type": "question",
+            "start_at": "2022-01-25T14:05:27Z",
+            "info_message": "",
+            "incorrect_message": "",
+            "text": "#Pron\u00f3sticoBetsson \u00bfCu\u00e1l ser\u00e1 el resultado de La Roja frente Argentina este jueves?",
+            "image": "https://funx-elvi.s3.amazonaws.com/game/betsson-trivia_qCpqiUk.png",
+            "game_type": "prediction",
+            "stop_at": "2023-01-26T14:05:30Z",
+            "difficulty": 1,
+            "state": "open",
+            "points": 1,
+            "id": 1483,
+            "vote": null,
+            "options": [
+                {
+                    "is_correct": true,
+                    "image": "",
+                    "percent": 87.0,
+                    "id": 4582,
+                    "text": "Gana"
+                },
+                {
+                    "is_correct": true,
+                    "image": "",
+                    "percent": 12.0,
+                    "id": 4583,
+                    "text": "Empata"
+                },
+                {
+                    "is_correct": true,
+                    "image": "",
+                    "percent": 1.0,
+                    "id": 4584,
+                    "text": "Pierde"
+                }
+            ]
+        },
+        {
+            "correct_message": "\u00a1Toda la fe!",
+            "alert_type": "question",
+            "start_at": "2022-01-25T14:08:30Z",
+            "info_message": "",
+            "incorrect_message": "",
+            "text": "#Pron\u00f3sticoBetsson \u00bfCu\u00e1ntos goles anotar\u00e1 La Roja?",
+            "image": "https://funx-elvi.s3.amazonaws.com/game/betsson-trivia_2cC3JMy.png",
+            "game_type": "prediction",
+            "stop_at": "2023-01-26T14:08:33Z",
+            "difficulty": 1,
+            "state": "open",
+            "points": 1,
+            "id": 1484,
+            "vote": null,
+            "options": [
+                {
+                    "is_correct": true,
+                    "image": "",
+                    "percent": 22.0,
+                    "id": 4585,
+                    "text": "1"
+                },
+                {
+                    "is_correct": true,
+                    "image": "",
+                    "percent": 69.0,
+                    "id": 4586,
+                    "text": "2"
+                },
+                {
+                    "is_correct": true,
+                    "image": "",
+                    "percent": 9.1,
+                    "id": 4587,
+                    "text": "3"
+                }
+            ]
+        },
+        {
+            "correct_message": "Mientras no sea doble...",
+            "alert_type": "question",
+            "start_at": "2022-01-25T14:12:26Z",
+            "info_message": "",
+            "incorrect_message": "",
+            "text": "#Pron\u00f3sticoBetsson \u00bfQu\u00e9 jugador de La Roja recibir\u00e1 tarjeta amarilla?",
+            "image": "https://funx-elvi.s3.amazonaws.com/game/betsson-trivia_yhIgIou.png",
+            "game_type": "prediction",
+            "stop_at": "2023-01-26T14:12:30Z",
+            "difficulty": 1,
+            "state": "open",
+            "points": 1,
+            "id": 1485,
+            "vote": null,
+            "options": [
+                {
+                    "is_correct": true,
+                    "image": "",
+                    "percent": 8.1,
+                    "id": 4590,
+                    "text": "Ben Brereton D\u00edaz"
+                },
+                {
+                    "is_correct": true,
+                    "image": "",
+                    "percent": 40.0,
+                    "id": 4589,
+                    "text": "Claudio Baeza"
+                },
+                {
+                    "is_correct": true,
+                    "image": "",
+                    "percent": 52.0,
+                    "id": 4588,
+                    "text": "Guillermo Marip\u00e1n"
+                }
+            ]
+        }
+    ],
+    "id": 7,
+    "name": "Demo Trivia",
+    "button": "https://funx-elvi.s3.amazonaws.com/buttons/button.png",
+    "state": "partial",
+    "model": 1,
+    "final": null
+}

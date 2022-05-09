@@ -1,0 +1,317 @@
+[
+    {
+        "slug": "copa-libertadores-2022-alianza-lima-vs-colo-colo-202205060200",
+        "championship": {
+            "slug": "copa-libertadores-2022",
+            "name": "Copa Libertadores 2022",
+            "gender": "male"
+        },
+        "local": {
+            "slug": "alianza-lima",
+            "name": "Alianza Lima",
+            "short_name": "Alianza",
+            "image": "https://s3.amazonaws.com/funx-futbol/dashboard/Alianza-Lima-2018-01-26-2020-01-29.png"
+        },
+        "away": {
+            "slug": "colo-colo",
+            "name": "Colo-Colo",
+            "short_name": "Colo-Colo",
+            "image": "https://s3.amazonaws.com/funx-futbol/dashboard/logoCC800x800-2020-07-22.png"
+        },
+        "local_goals": 1,
+        "local_penalty_goals": 0,
+        "away_goals": 1,
+        "away_penalty_goals": 0,
+        "scorer": "1 - 1",
+        "stadium": {
+            "slug": "estadio-nacional-de-lima",
+            "name": "Estadio Nacional de Lima",
+            "city": "Lima",
+            "latitude": -35.760739,
+            "longitude": -177.806519
+        },
+        "referee": {
+            "name": "Carlos Andres Betancur"
+        },
+        "ticketing": false,
+        "datetime": "2022-05-06T02:00:00Z",
+        "timestamp": 1651802400,
+        "actions": [
+            {
+                "type": "calendar",
+                "icon": "",
+                "url": "https://www.google.cl"
+            },
+            {
+                "type": "url",
+                "icon": "",
+                "url": "https://www.google.cl"
+            }
+        ],
+        "meta": {
+            "is_own_match": "1",
+            "own_side": "visit",
+            "has_detail": "1"
+        },
+        "period": "Fecha 10",
+        "state": {
+            "name": "FullTime",
+            "type": "fulltime"
+        },
+        "selected": false,
+        "on_live": false,
+        "is_confirmed": true
+    },
+    {
+        "slug": "torneo-nacional-2022-curico-unido-vs-colo-colo-202205082000",
+        "championship": {
+            "slug": "torneo-nacional-2022",
+            "name": "Campeonato AFP PlanVital",
+            "gender": "male"
+        },
+        "local": {
+            "slug": "curico-unido",
+            "name": "Curicó Unido",
+            "short_name": "Curicó Unido",
+            "image": "https://s3.amazonaws.com/funx-futbol/dashboard/Curico-2018-01-26.png"
+        },
+        "away": {
+            "slug": "colo-colo",
+            "name": "Colo-Colo",
+            "short_name": "Colo-Colo",
+            "image": "https://s3.amazonaws.com/funx-futbol/dashboard/logoCC800x800-2020-07-22.png"
+        },
+        "local_goals": 0,
+        "local_penalty_goals": 0,
+        "away_goals": 2,
+        "away_penalty_goals": 0,
+        "scorer": "0 - 2",
+        "stadium": {
+            "slug": "la-granja",
+            "name": "La Granja",
+            "city": "Curico",
+            "latitude": -35.760739,
+            "longitude": -177.806519
+        },
+        "referee": {
+            "name": "Julio Bascuñán"
+        },
+        "ticketing": false,
+        "datetime": "2022-05-09T22:00:00Z",
+        "timestamp": 1652133600,
+        "actions": [
+            {
+                "type": "calendar",
+                "icon": "",
+                "url": "https://www.google.cl"
+            },
+            {
+                "type": "url",
+                "icon": "",
+                "url": "https://www.google.cl"
+            }
+        ],
+        "meta": {
+            "is_own_match": "1",
+            "own_side": "visit",
+            "has_detail": "1"
+        },
+        "period": "Fecha 12",
+        "state": {
+            "name": "FirstHalf",
+            "type": "firsthalf"
+        },
+        "selected": true,
+        "on_live": true,
+        "is_confirmed": true
+    },
+    {
+        "slug": "torneo-nacional-2022-colo-colo-vs-coquimbo-unido-202205152000",
+        "championship": {
+            "slug": "torneo-nacional-2022",
+            "name": "Campeonato AFP PlanVital",
+            "gender": "male"
+        },
+        "local": {
+            "slug": "colo-colo",
+            "name": "Colo-Colo",
+            "short_name": "Colo-Colo",
+            "image": "https://s3.amazonaws.com/funx-futbol/dashboard/logoCC800x800-2020-07-22.png"
+        },
+        "away": {
+            "slug": "coquimbo-unido",
+            "name": "Coquimbo Unido",
+            "short_name": "Coquimbo Unido",
+            "image": "https://s3.amazonaws.com/funx-futbol/dashboard/Coquimbo-2019-02-19.png"
+        },
+        "local_goals": 0,
+        "local_penalty_goals": 0,
+        "away_goals": 0,
+        "away_penalty_goals": 0,
+        "scorer": " vs ",
+        "stadium": {
+            "slug": "estadio-monumental-david-arellano",
+            "name": "Estadio Monumental David Arellano",
+            "city": "Santiago",
+            "latitude": -35.760739,
+            "longitude": -177.806519
+        },
+        "referee": {
+            "name": ""
+        },
+        "ticketing": true,
+        "datetime": "2022-05-14T22:00:00Z",
+        "timestamp": 1652565600,
+        "actions": [
+            {
+                "type": "calendar",
+                "icon": "",
+                "url": "https://www.google.cl"
+            },
+            {
+                "type": "url",
+                "icon": "",
+                "url": "https://www.google.cl"
+            }
+        ],
+        "meta": {
+            "is_own_match": "1",
+            "own_side": "local",
+            "has_detail": "1"
+        },
+        "period": "Fecha 13",
+        "state": {
+            "name": "PreMatch",
+            "type": "prematch"
+        },
+        "selected": false,
+        "on_live": false,
+        "is_confirmed": true
+    },
+    {
+        "slug": "copa-libertadores-2022-river-plate-vs-colo-colo-202205200000",
+        "championship": {
+            "slug": "copa-libertadores-2022",
+            "name": "Copa Libertadores 2022",
+            "gender": "male"
+        },
+        "local": {
+            "slug": "river-plate",
+            "name": "River Plate",
+            "short_name": "River",
+            "image": "https://s3.amazonaws.com/funx-futbol/dashboard/River-Plate-2018-01-26-2020-01-29.png"
+        },
+        "away": {
+            "slug": "colo-colo",
+            "name": "Colo-Colo",
+            "short_name": "Colo-Colo",
+            "image": "https://s3.amazonaws.com/funx-futbol/dashboard/logoCC800x800-2020-07-22.png"
+        },
+        "local_goals": 0,
+        "local_penalty_goals": 0,
+        "away_goals": 0,
+        "away_penalty_goals": 0,
+        "scorer": " vs ",
+        "stadium": {
+            "slug": "estadio-monumental-antonio-vespucio-liberti",
+            "name": "Estadio Monumental Antonio Vespucio Liberti",
+            "city": "Buenos Aires",
+            "latitude": -35.760739,
+            "longitude": -177.806519
+        },
+        "referee": {
+            "name": ""
+        },
+        "ticketing": false,
+        "datetime": "2022-05-20T00:00:00Z",
+        "timestamp": 1653004800,
+        "actions": [
+            {
+                "type": "calendar",
+                "icon": "",
+                "url": "https://www.google.cl"
+            },
+            {
+                "type": "url",
+                "icon": "",
+                "url": "https://www.google.cl"
+            }
+        ],
+        "meta": {
+            "is_own_match": "1",
+            "own_side": "visit",
+            "has_detail": "1"
+        },
+        "period": "Fecha 11",
+        "state": {
+            "name": "PreMatch",
+            "type": "prematch"
+        },
+        "selected": false,
+        "on_live": false,
+        "is_confirmed": true
+    },
+    {
+        "slug": "torneo-nacional-2022-o-higgins-vs-colo-colo-202205222000",
+        "championship": {
+            "slug": "torneo-nacional-2022",
+            "name": "Campeonato AFP PlanVital",
+            "gender": "male"
+        },
+        "local": {
+            "slug": "o-higgins",
+            "name": "O'Higgins",
+            "short_name": "O'Higgins",
+            "image": "https://s3.amazonaws.com/funx-futbol/dashboard/OHiggins-2018-01-26.png"
+        },
+        "away": {
+            "slug": "colo-colo",
+            "name": "Colo-Colo",
+            "short_name": "Colo-Colo",
+            "image": "https://s3.amazonaws.com/funx-futbol/dashboard/logoCC800x800-2020-07-22.png"
+        },
+        "local_goals": 0,
+        "local_penalty_goals": 0,
+        "away_goals": 0,
+        "away_penalty_goals": 0,
+        "scorer": " vs ",
+        "stadium": {
+            "slug": "estadio-el-teniente",
+            "name": "Estadio El Teniente",
+            "city": "Rancagua",
+            "latitude": -35.760739,
+            "longitude": -177.806519
+        },
+        "referee": {
+            "name": ""
+        },
+        "ticketing": false,
+        "datetime": "2022-05-22T19:00:00Z",
+        "timestamp": 1653246000,
+        "actions": [
+            {
+                "type": "calendar",
+                "icon": "",
+                "url": "https://www.google.cl"
+            },
+            {
+                "type": "url",
+                "icon": "",
+                "url": "https://www.google.cl"
+            }
+        ],
+        "meta": {
+            "is_own_match": "1",
+            "own_side": "visit",
+            "has_detail": "1"
+        },
+        "period": "Fecha 14",
+        "state": {
+            "name": "PreMatch",
+            "type": "prematch"
+        },
+        "selected": false,
+        "on_live": false,
+        "is_confirmed": true
+    }
+]

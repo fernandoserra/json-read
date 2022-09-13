@@ -1,0 +1,13 @@
+[
+    
+    {
+        "title": "Cointelegraph",
+        "url": "https://es.cointelegraph.com/rss",
+        "visible":"true"
+    },
+    {
+        "title": "Cointext",
+        "url": "https://cointext.com/es/noticias/feed/",
+        "visible":"true"
+    }
+]

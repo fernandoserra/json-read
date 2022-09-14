@@ -9,5 +9,12 @@
         "title": "Cointext",
         "url": "https://cointext.com/es/noticias/feed/",
         "visible":true
+    },
+    {
+        "title": "Mercados // expansion",
+        "url": "https://e00-expansion.uecdn.es/rss/midinero.xml",
+        "visible":true
     }
+    
+    
 ]

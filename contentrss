@@ -19,7 +19,13 @@
         "title": "Criptonoticias",
         "url": "https://www.criptonoticias.com/feed/",
         "visible":true
+    },
+    {
+        "title": "ETF.com",
+        "url": "https://www.etf.com/home.feed",
+        "visible":true
     }
+    
     
     
 ]

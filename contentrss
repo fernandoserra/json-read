@@ -24,6 +24,11 @@
         "title": "ETF.com",
         "url": "https://www.etf.com/home.feed",
         "visible":true
+    },
+    {
+        "title": "Investing",
+        "url": "https://es.investing.com/rss/market_overview.rss",
+        "visible":true
     }
     
     

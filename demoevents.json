@@ -1,0 +1,25 @@
+[
+    
+    {
+        "name": "Coldplay - Music of the Spheres World Tour",
+        "urlImage": "https://static.puntoticket.com/images/eventos/dgm112_calugalistado.jpg",
+        "addres":"Estadio Nacional - Santiago",
+        "countTicket":"4",
+        "dateEvent":"20 de septiembre 2022"
+    },
+    {
+        "name": "Creamfields 2022",
+        "urlImage": "https://static.puntoticket.com/images/eventos/sm0137v2_calugalistado.jpg",
+        "addres":"Espacio Riesco - Huechuraba",
+        "countTicket":"2",
+        "dateEvent":"06 de noviembre 2022"
+    },
+    {
+        "name": "Lollapalooza Chile 2023",
+        "urlImage": "https://static.puntoticket.com/images/eventos/lol091_calugalistado.jpg",
+        "addres":"Parque Bicentenario Cerrillos",
+        "countTicket":"1",
+        "dateEvent":"17, 18 y 19 de Marzo 2023"
+    }
+    
+]

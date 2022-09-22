@@ -3,24 +3,28 @@
     {
         "name": "Recibiste una estrada",
         "urlImage": "https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678134-sign-check-512.png",
+        "description": "De ccortes@puntoticket.cl para Felipe",
         "type":"1",
         "date":"2022-09-20"
     },
     {
         "name": "Enviaste una entrada",
         "urlImage": "https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678134-sign-check-512.png",
+        "description": "jparra@puntoticket.cl",
         "type":"1",
         "date":"2022-09-20"
     },
     {
         "name": "Te devolvieron una entrada",
         "urlImage": "https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678134-sign-check-512.png",
+        "description": "pancho@puntoticket.cl para Lollapalooza",
         "type":"1",
         "date":"2022-09-20"
     },
     {
         "name": "Festival 2023",
         "urlImage": "https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678134-sign-check-512.png",
+        "description": "Actualizo las puertas de acceso",
         "type":"1",
         "date":"2022-09-20"
     }

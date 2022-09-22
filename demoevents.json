@@ -1,25 +1,100 @@
 [
-    
     {
         "name": "Coldplay",
         "urlImage": "https://static.puntoticket.com/images/eventos/dgm112_calugalistado.jpg",
-        "addres":"Estadio Nacional - Santiago",
-        "countTicket":"4",
-        "dateEvent":"20 de septiembre 2022"
+        "addres": "Estadio Nacional - Santiago",
+        "countTicket": "4",
+        "dateEvent": "20 de septiembre 2022",
+        "ticket":[
+            {
+                "sector":"Campo Numerado",
+                "access":"Puerta B",
+                "section":"A",
+                "row":"H",
+                "asiento":"22",
+                "openDoors":"17:00 hs",
+                "beginShow":"20:00 hs",
+                "code":"111111111"
+            },
+            {
+                "sector":"Campo Numerado",
+                "access":"Puerta B",
+                "section":"A",
+                "row":"H",
+                "asiento":"22",
+                "openDoors":"17:00 hs",
+                "beginShow":"20:00 hs",
+                "code":"222222222"
+            },
+            {
+                "sector":"Campo Numerado",
+                "access":"Puerta B",
+                "section":"A",
+                "row":"H",
+                "asiento":"22",
+                "openDoors":"17:00 hs",
+                "beginShow":"20:00 hs",
+                "code":"333333333"
+            },
+            {
+                "sector":"Campo Numerado",
+                "access":"Puerta B",
+                "section":"A",
+                "row":"H",
+                "asiento":"22",
+                "openDoors":"17:00 hs",
+                "beginShow":"20:00 hs",
+                "code":"444444444"
+            }
+
+        ]
     },
     {
         "name": "Creamfields 2022",
         "urlImage": "https://static.puntoticket.com/images/eventos/sm0137v2_calugalistado.jpg",
-        "addres":"Espacio Riesco - Huechuraba",
-        "countTicket":"2",
-        "dateEvent":"06 de noviembre 2022"
+        "addres": "Espacio Riesco - Huechuraba",
+        "countTicket": "2",
+        "dateEvent": "06 de noviembre 2022",
+        "ticket":[
+            {
+                "sector":"Campo Numerado",
+                "access":"Puerta B",
+                "section":"A",
+                "row":"H",
+                "asiento":"22",
+                "openDoors":"17:00 hs",
+                "beginShow":"20:00 hs",
+                "code":"111111111"
+            },
+            {
+                "sector":"Campo Numerado",
+                "access":"Puerta B",
+                "section":"A",
+                "row":"H",
+                "asiento":"22",
+                "openDoors":"17:00 hs",
+                "beginShow":"20:00 hs",
+                "code":"222222222"
+            }
+        ]
     },
     {
         "name": "Lollapalooza Chile 2023",
         "urlImage": "https://static.puntoticket.com/images/eventos/lol091_calugalistado.jpg",
-        "addres":"Parque Bicentenario Cerrillos",
-        "countTicket":"1",
-        "dateEvent":"17, 18 y 19 de Marzo 2023"
+        "addres": "Parque Bicentenario Cerrillos",
+        "countTicket": "1",
+        "dateEvent": "17, 18 y 19 de Marzo 2023",
+        "ticket":[
+            {
+                "sector":"Campo Numerado",
+                "access":"Puerta B",
+                "section":"A",
+                "row":"H",
+                "asiento":"22",
+                "openDoors":"17:00 hs",
+                "beginShow":"20:00 hs",
+                "code":"111111111"
+            }
+        ]
     }
-    
 ]

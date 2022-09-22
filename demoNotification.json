@@ -1,0 +1,27 @@
+[
+    
+    {
+        "name": "Recibiste una estrada",
+        "urlImage": "https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678134-sign-check-512.png",
+        "type":"1",
+        "date":"2022-09-20"
+    },
+    {
+        "name": "Enviaste una entrada",
+        "urlImage": "https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678134-sign-check-512.png",
+        "type":"1",
+        "date":"2022-09-20"
+    },
+    {
+        "name": "Te devolvieron una entrada",
+        "urlImage": "https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678134-sign-check-512.png",
+        "type":"1",
+        "date":"2022-09-20"
+    },
+    {
+        "name": "Festival 2023",
+        "urlImage": "https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678134-sign-check-512.png",
+        "type":"1",
+        "date":"2022-09-20"
+    }
+]

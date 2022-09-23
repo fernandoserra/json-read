@@ -8,40 +8,40 @@
         "ticket":[
             {
                 "sector":"Campo Numerado",
-                "access":"Puerta B",
+                "access":"Puerta A",
                 "section":"A",
                 "row":"H",
-                "asiento":"22",
+                "asiento":"10",
                 "openDoors":"17:00 hs",
                 "beginShow":"20:00 hs",
                 "code":"111111111"
             },
             {
                 "sector":"Campo Numerado",
-                "access":"Puerta B",
+                "access":"Puerta A",
                 "section":"A",
                 "row":"H",
-                "asiento":"22",
+                "asiento":"11",
                 "openDoors":"17:00 hs",
                 "beginShow":"20:00 hs",
                 "code":"222222222"
             },
             {
                 "sector":"Campo Numerado",
-                "access":"Puerta B",
+                "access":"Puerta A",
                 "section":"A",
                 "row":"H",
-                "asiento":"22",
+                "asiento":"12",
                 "openDoors":"17:00 hs",
                 "beginShow":"20:00 hs",
                 "code":"333333333"
             },
             {
                 "sector":"Campo Numerado",
-                "access":"Puerta B",
+                "access":"Puerta D",
                 "section":"A",
                 "row":"H",
-                "asiento":"22",
+                "asiento":"13",
                 "openDoors":"17:00 hs",
                 "beginShow":"20:00 hs",
                 "code":"444444444"
@@ -58,22 +58,22 @@
         "ticket":[
             {
                 "sector":"Campo Numerado",
-                "access":"Puerta B",
+                "access":"Puerta E",
                 "section":"A",
-                "row":"H",
-                "asiento":"22",
-                "openDoors":"17:00 hs",
-                "beginShow":"20:00 hs",
+                "row":"Z",
+                "asiento":"32",
+                "openDoors":"11:00 hs",
+                "beginShow":"14:00 hs",
                 "code":"111111111"
             },
             {
                 "sector":"Campo Numerado",
-                "access":"Puerta B",
-                "section":"A",
+                "access":"Puerta F",
+                "section":"Z",
                 "row":"H",
-                "asiento":"22",
-                "openDoors":"17:00 hs",
-                "beginShow":"20:00 hs",
+                "asiento":"33",
+                "openDoors":"11:00 hs",
+                "beginShow":"14:00 hs",
                 "code":"222222222"
             }
         ]
@@ -87,13 +87,13 @@
         "ticket":[
             {
                 "sector":"Campo Numerado",
-                "access":"Puerta B",
+                "access":"Puerta G",
                 "section":"A",
                 "row":"H",
                 "asiento":"22",
-                "openDoors":"17:00 hs",
+                "openDoors":"11:00 hs",
                 "beginShow":"20:00 hs",
-                "code":"111111111"
+                "code":"777777777"
             }
         ]
     }

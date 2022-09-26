@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Gorillaz",
+        "urlImage": "https://static.puntoticket.com/especiales/dgm108_gorillaz-movistar-arena/img/landing_gorillaz_portada.jpg",
+        "addres": "Movistar Arena - Santiago",
+        "countTicket": "1",
+        "dateEvent": "03 de mayo 2022",
+        "ticket":[
+            {
+                "sector":"Diamante",
+                "access":"Puerta A",
+                "section":"A",
+                "row":"B",
+                "asiento":"14",
+                "openDoors":"11:00 hs",
+                "beginShow":"20:00 hs",
+                "code":"999999999"
+            }
+        ]
+    }
+]

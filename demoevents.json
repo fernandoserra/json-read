@@ -2,6 +2,7 @@
     {
         "name": "Coldplay",
         "urlImage": "https://static.puntoticket.com/images/eventos/dgm112_calugalistado.jpg",
+        "urlImage2": "",
         "addres": "Estadio Nacional - Santiago",
         "countTicket": "4",
         "dateEvent": "20 de septiembre 2022",
@@ -47,11 +48,17 @@
                 "code":"444444444"
             }
 
-        ]
+        ],
+        "producer":{
+            "name":"",
+            "rut":""
+        }
+        
     },
     {
         "name": "Creamfields 2022",
         "urlImage": "https://static.puntoticket.com/images/eventos/sm0137v2_calugalistado.jpg",
+        "urlImage2": "https://static.puntoticket.com/images/eventos/banners2/sm0137_1_2_logo.png",
         "addres": "Espacio Riesco - Huechuraba",
         "countTicket": "2",
         "dateEvent": "06 de noviembre 2022",
@@ -76,11 +83,16 @@
                 "beginShow":"14:00 hs",
                 "code":"222222222"
             }
-        ]
+        ],
+        "producer":{
+            "name":"",
+            "rut":""
+        }
     },
     {
         "name": "Lollapalooza Chile 2023",
-        "urlImage": "https://static.puntoticket.com/images/eventos/lol091_calugalistado.jpg",
+        "urlImage": "https://static.puntoticket.com/images/eventos/banners2/lol091_lg_1_2_banner.jpg",
+        "urlImage2": "https://static.puntoticket.com/images/eventos/banners2/lol091_1_2_logo.png",
         "addres": "Parque Bicentenario Cerrillos",
         "countTicket": "1",
         "dateEvent": "17, 18 y 19 de Marzo 2023",
@@ -95,6 +107,10 @@
                 "beginShow":"20:00 hs",
                 "code":"777777777"
             }
-        ]
+        ],
+        "producer":{
+            "name":"",
+            "rut":""
+        }
     }
 ]

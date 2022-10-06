@@ -15,7 +15,8 @@
                 "asiento":"10",
                 "openDoors":"17:00 hs",
                 "beginShow":"20:00 hs",
-                "code":"111111111"
+                "code":"111111111",
+                "visible":true
             },
             {
                 "sector":"Campo Numerado",
@@ -25,7 +26,8 @@
                 "asiento":"11",
                 "openDoors":"17:00 hs",
                 "beginShow":"20:00 hs",
-                "code":"222222222"
+                "code":"222222222",
+                "visible":true
             },
             {
                 "sector":"Campo Numerado",
@@ -35,7 +37,8 @@
                 "asiento":"12",
                 "openDoors":"17:00 hs",
                 "beginShow":"20:00 hs",
-                "code":"333333333"
+                "code":"333333333",
+                "visible":true
             },
             {
                 "sector":"Campo Numerado",
@@ -45,7 +48,8 @@
                 "asiento":"13",
                 "openDoors":"17:00 hs",
                 "beginShow":"20:00 hs",
-                "code":"444444444"
+                "code":"444444444",
+                "visible":true
             }
 
         ],
@@ -71,7 +75,8 @@
                 "asiento":"32",
                 "openDoors":"11:00 hs",
                 "beginShow":"14:00 hs",
-                "code":"111111111"
+                "code":"111111111",
+                "visible":false
             },
             {
                 "sector":"Campo Numerado",
@@ -81,7 +86,8 @@
                 "asiento":"33",
                 "openDoors":"11:00 hs",
                 "beginShow":"14:00 hs",
-                "code":"222222222"
+                "code":"222222222",
+                "visible":false
             }
         ],
         "producer":{
@@ -105,7 +111,8 @@
                 "asiento":"22",
                 "openDoors":"11:00 hs",
                 "beginShow":"20:00 hs",
-                "code":"777777777"
+                "code":"777777777",
+                "visible":false
             }
         ],
         "producer":{

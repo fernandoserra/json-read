@@ -3,7 +3,7 @@
         "cod": 111,
         "name": "Evento 1",
         "urlImage": "https://static.puntoticket.com/images/eventos/dgm112_calugalistado.jpg",
-        "addres": "Estadio Nacional - Santiago",
+        "address": "Estadio Nacional - Santiago",
         "nameWeb": "pt",
         "category": "",
         "ulrWeb": "www.pt.com"
@@ -12,7 +12,7 @@
         "cod": 222,
         "name": "Evento 2",
         "urlImage": "https://static.puntoticket.com/images/eventos/dgm112_calugalistado.jpg",
-        "addres": "Estadio Nacional - Santiago",
+        "address": "Estadio Nacional - Santiago",
         "nameWeb": "pt",
         "category": "",
         "ulrWeb": "www.pt.com"
@@ -21,7 +21,7 @@
         "cod": 333,
         "name": "Evento 3",
         "urlImage": "https://static.puntoticket.com/images/eventos/dgm112_calugalistado.jpg",
-        "addres": "Estadio Nacional - Santiago",
+        "address": "Estadio Nacional - Santiago",
         "nameWeb": "pthzy",
         "category": "",
         "ulrWeb": "www.pthzy.com"
@@ -30,7 +30,7 @@
         "cod": 444,
         "name": "Evento 4",
         "urlImage": "https://static.puntoticket.com/images/eventos/dgm112_calugalistado.jpg",
-        "addres": "Estadio Nacional - Santiago",
+        "address": "Estadio Nacional - Santiago",
         "nameWeb": "pthzy",
         "category": "",
         "ulrWeb": "www.pthzy.com"
@@ -39,7 +39,7 @@
         "cod": 555,
         "name": "Evento 5",
         "urlImage": "https://static.puntoticket.com/images/eventos/dgm112_calugalistado.jpg",
-        "addres": "Estadio Nacional - Santiago",
+        "address": "Estadio Nacional - Santiago",
         "nameWeb": "pthzy",
         "category": "",
         "ulrWeb": "www.pthzy.com"
@@ -48,7 +48,7 @@
         "cod": 666,
         "name": "Evento 6",
         "urlImage": "https://static.puntoticket.com/images/eventos/dgm112_calugalistado.jpg",
-        "addres": "Estadio Nacional - Santiago",
+        "address": "Estadio Nacional - Santiago",
         "nameWeb": "pthzy",
         "category": "",
         "ulrWeb": "www.pthzy.com"
@@ -57,7 +57,7 @@
         "cod": 777,
         "name": "Evento 7",
         "urlImage": "https://static.puntoticket.com/images/eventos/dgm112_calugalistado.jpg",
-        "addres": "Estadio Nacional - Santiago",
+        "address": "Estadio Nacional - Santiago",
         "nameWeb": "pthzy",
         "category": "",
         "ulrWeb": "www.pthzy.com"
@@ -66,7 +66,7 @@
         "cod": 888,
         "name": "Evento 8",
         "urlImage": "https://static.puntoticket.com/images/eventos/dgm112_calugalistado.jpg",
-        "addres": "Estadio Nacional - Santiago",
+        "address": "Estadio Nacional - Santiago",
         "nameWeb": "pthzy",
         "category": "",
         "ulrWeb": "www.pthzy.com"
@@ -75,7 +75,7 @@
         "cod": 999,
         "name": "Evento 9",
         "urlImage": "https://static.puntoticket.com/images/eventos/dgm112_calugalistado.jpg",
-        "addres": "Estadio Nacional - Santiago",
+        "address": "Estadio Nacional - Santiago",
         "nameWeb": "pthzy",
         "category": "",
         "ulrWeb": "www.pthzy.com"
@@ -84,7 +84,7 @@
         "cod": 101010,
         "name": "Evento 10",
         "urlImage": "https://static.puntoticket.com/images/eventos/dgm112_calugalistado.jpg",
-        "addres": "Estadio Nacional - Santiago",
+        "address": "Estadio Nacional - Santiago",
         "nameWeb": "pthzy",
         "category": "",
         "ulrWeb": "www.pthzy.com"

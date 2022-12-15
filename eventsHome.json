@@ -1,0 +1,33 @@
+[
+    {
+        "cod": 111,
+        "name": "KNOTFET",
+        "urlImage": "https://static.puntoticket.com/images/eventos/banners2/knt001_lg_1_2_banner.jpg",
+        "address": "Dirección 1",
+        "nameWeb": "ptkz",
+        "category": "Musica",
+        "ulrWeb": "www.ptkz.com",
+        "dateEvent":"26 de abril 2023"
+    },
+    {
+        "cod": 222,
+        "name": "Lollapalooza Chile 2023",
+        "urlImage": "https://static.puntoticket.com/images/eventos/banners2/lol091_lg_1_2_banner.jpg",
+        "address": "Dirección 1",
+        "nameWeb": "ptkz",
+        "category": "Musica",
+        "ulrWeb": "www.ptkz.com",
+        "dateEvent":"26 de abril 2023"
+    },
+    {
+        "cod": 333,
+        "name": "VIÑA DEL MAR",
+        "urlImage": "https://static.puntoticket.com/images/eventos/banners2/fv2023_lg_1_2_banner.jpg",
+        "address": "Dirección 1",
+        "nameWeb": "ptkz",
+        "category": "Musica",
+        "ulrWeb": "www.ptkz.com",
+        "dateEvent":"26 de abril 2023"
+    }
+    
+]

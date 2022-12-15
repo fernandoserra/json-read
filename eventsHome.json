@@ -28,6 +28,16 @@
         "category": "Musica",
         "ulrWeb": "www.ptkz.com",
         "dateEvent":"26 de abril 2023"
+    },
+     {
+        "cod": 444,
+        "name": "The Weeknd",
+        "urlImage": "https://cdn.getcrowder.com/images/ceb0158b-2a59-41e8-908a-e369bcaec01b-1920x720header-5-min.png",
+        "address": "Estadio Bicentenario La Florida",
+        "nameWeb": "ticketmaster",
+        "category": "Musica",
+        "ulrWeb": "https://www.ticketmaster.cl/event/the-weeknd-2023",
+        "dateEvent":"15 y 16 de Octubre 2023"
     }
     
 ]
